@@ -1,0 +1,42 @@
+{
+  "namespace": {
+    "heading_prefix": "Case",
+    "anchor_prefix": "case",
+    "numbering_order": "set-contiguous",
+    "menu_policy": "category-menu",
+    "category_anchors": [
+      "category-scenes",
+      "category-animation",
+      "category-motion",
+      "category-web",
+      "category-games",
+      "category-engineering",
+      "category-writing",
+      "category-agents"
+    ],
+    "localized_heading_prefixes": {
+      "README_es.md": "Caso",
+      "README_pt.md": "Caso",
+      "README_ja.md": "ケース",
+      "README_ko.md": "사례",
+      "README_de.md": "Fall",
+      "README_fr.md": "Cas",
+      "README_tr.md": "Örnek",
+      "README_zh-TW.md": "案例",
+      "README_zh-CN.md": "案例",
+      "README_ru.md": "Пример"
+    }
+  },
+  "presentation": {
+    "case_image_height": 280,
+    "show_case_notes": false,
+    "show_type_labels": false,
+    "show_quick_start": false,
+    "show_promotion": false,
+    "menu_layout": "category-counts"
+  },
+  "structured_data": {
+    "path": "data/use-cases.json",
+    "items_key": "items"
+  }
+}

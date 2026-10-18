@@ -1,0 +1,3090 @@
+{
+  "schema_version": 1,
+  "model": "DeepSeek V4.1 Flash 1017",
+  "updated_at": "2026-10-18",
+  "source_package_sha256": "9bda2d53507f3a2b51971da1416590f34e55af6118cfe6d4f1b4eebd4d36fad7",
+  "expected_public_visual_count": 40,
+  "items": [
+    {
+      "group_id": "DS001",
+      "public_number": 1,
+      "category": "scenes",
+      "title": "A 1990s Chinese apartment building in Blender",
+      "takeaway": "Explore an architectural brief through building details, materials and a residential street setting.",
+      "source_url": "https://x.com/leo114119/status/2111512106059407702",
+      "author_handle": "leo114119",
+      "date": "2026-10-17",
+      "source_id": "2111512106059407702",
+      "author_url": "https://x.com/leo114119",
+      "category_id": "scenes",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 的 Blender 建模测试——居民楼\n\n提示词：用Blender构建一个细节拉满的一幢典型中国90年代居民楼的3D场景。 https://t.co/HX4PflhjyP"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/leo114119/status/2111512106059407702",
+      "prompt_boundary": "1 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [
+        {
+          "id": "P-2111512106059407702",
+          "text": "用Blender构建一个细节拉满的一幢典型中国90年代居民楼的3D场景。",
+          "source_url": "https://x.com/leo114119/status/2111512106059407702",
+          "source_post_id": "2111512106059407702",
+          "evidence_type": "root-text",
+          "sha256": "798cc30093cd1dbf74a01d303a8e18bf0bc1fbbb3516d655687ec9cba3158f0f",
+          "source_text_start": 50,
+          "source_text_end": 86
+        }
+      ],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU2Y8-vbAAA3TDW.png",
+        "https://pbs.twimg.com/media/HU2ZAqUa4AAIHPZ.png",
+        "https://pbs.twimg.com/media/HU2ZCGabUAA5s6i.png",
+        "https://pbs.twimg.com/media/HU2ZD_YacAAQykd.png"
+      ],
+      "source_media_count": 4,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 4,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111511973708103680",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS001/image-0-82846086ab9d.png"
+        },
+        {
+          "source_media_id": "2111512036945616896",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS001/image-1-6ee2260bb444.png"
+        },
+        {
+          "source_media_id": "2111512061666873344",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS001/image-2-d12be32ae4d5.png"
+        },
+        {
+          "source_media_id": "2111512094139117568",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS001/image-3-4cecdf99f334.png"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS001/image-0-82846086ab9d.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS001/image-1-6ee2260bb444.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS001/image-2-d12be32ae4d5.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS001/image-3-4cecdf99f334.png"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 259,
+        "view_count": 15436,
+        "retweet_count": 14,
+        "reply_count": 27,
+        "bookmark_count": 105,
+        "quote_count": 2
+      },
+      "metrics_collected_at": "2026-10-18T02:19:35Z",
+      "source_posts": [
+        {
+          "id": "2111512106059407702",
+          "sourceUrl": "https://x.com/leo114119/status/2111512106059407702",
+          "author": "leo114119",
+          "createdAt": "2026-10-17T17:38:10Z",
+          "likeCount": 259,
+          "viewCount": 15436,
+          "retweetCount": 14,
+          "replyCount": 27,
+          "bookmarkCount": 105,
+          "quoteCount": 2,
+          "isReply": false,
+          "conversationId": "2111512106059407702",
+          "metricsCollectedAt": "2026-10-18T02:19:35Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS002",
+      "public_number": 2,
+      "category": "scenes",
+      "title": "A sailing ship on a sunset sea",
+      "takeaway": "Study a detailed ship scene through sails, water reflections and sunset lighting.",
+      "source_url": "https://x.com/AM09_21/status/2111426801679643002",
+      "author_handle": "AM09_21",
+      "date": "2026-10-17",
+      "source_id": "2111426801679643002",
+      "author_url": "https://x.com/AM09_21",
+      "category_id": "scenes",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017検証2\n\nちょっと前にめちゃめちゃ有名になってたこのプロンプトを、DeepSeek V4.1 Flash 1017にぶち込んでみたよ\n\n結果は......まぁ画像を見たら分かると思う()\nリプにCloudflare PagesにデプロイしたURL貼ってるので、自分の目で確かめてみて！ https://t.co/l0lQvc92s5"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/AM09_21/status/2111426801679643002",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU1Kqb6aYAAks7G.jpg"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111425893214347264",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS002/image-0-e8700aca4a8f.jpg"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS002/image-0-e8700aca4a8f.jpg"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 87,
+        "view_count": 7865,
+        "retweet_count": 11,
+        "reply_count": 1,
+        "bookmark_count": 27,
+        "quote_count": 3
+      },
+      "metrics_collected_at": "2026-10-18T02:17:23Z",
+      "source_posts": [
+        {
+          "id": "2111426801679643002",
+          "sourceUrl": "https://x.com/AM09_21/status/2111426801679643002",
+          "author": "AM09_21",
+          "createdAt": "2026-10-17T11:59:12Z",
+          "likeCount": 87,
+          "viewCount": 7865,
+          "retweetCount": 11,
+          "replyCount": 1,
+          "bookmarkCount": 27,
+          "quoteCount": 3,
+          "isReply": false,
+          "conversationId": "2111426801679643002",
+          "metricsCollectedAt": "2026-10-18T02:17:23Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS003",
+      "public_number": 3,
+      "category": "scenes",
+      "title": "Leifeng Pagoda with changing weather and light",
+      "takeaway": "Explore a pagoda environment with controls for seasons, weather and time of day.",
+      "source_url": "https://x.com/NFT_Chen/status/2111709068356419724",
+      "author_handle": "NFT_Chen",
+      "date": "2026-10-18",
+      "source_id": "2111709068356419724",
+      "author_url": "https://x.com/NFT_Chen",
+      "category_id": "scenes",
+      "type": "Demo",
+      "body_notes": [
+        "💥惊艳！DeepSeek V4.1 Flash 1017 一句话3D建模杭州雷峰塔，效果不输 Opus 5.5！充分领悟到梁文峰许愿式编程的精髓！\n\n就一句提示，直接出可交互的西湖雷峰夕照 3D 场景，细节和氛围都拉满，性价比直接打平顶级闭源模型。\n\n核心亮点：\n🔹建筑还原准：八角五层铜塔、飞檐翘角、绿瓦金顶、平座栏杆、台基阶梯，结构气势高度还原真塔。\n\n🔹环境融合好：塔、湖、山、树、亭无缝衔接，远近层次感强。\n\n🔹氛围可切换：支持四季、晴雨、时辰变化，雨雾、夕照、夜景灯光效果真实。\n\n🔹渲染质感高：瓦片材质、光影、倒影、雾气到位，接近专业 3D 引擎水平。\n\n🔹许愿式能力强：一句话从零生成完整可交互场景，速度快、完成度高。\n\n开源模型把 3D 建模门槛打到这个程度，确实离谱。\n\n#许愿式编程 #DeepSeek #大模型 #3D建模 #雷峰塔 #西湖 #AI建模  #梁文峰 #梁圣 \n\nhttps://t.co/efPQH3Ce19"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/NFT_Chen/status/2111709068356419724",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111708175158444032/vid/avc1/726x360/y_fjydLq-BgEN_Uf.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111708175158444032",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS003/poster-0-93c553ba4168.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS003/web-dd7766936524.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS003/poster-0-93c553ba4168.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS003/web-dd7766936524.mp4",
+      "metrics": {
+        "like_count": 54,
+        "view_count": 7477,
+        "retweet_count": 8,
+        "reply_count": 12,
+        "bookmark_count": 19,
+        "quote_count": 1
+      },
+      "metrics_collected_at": "2026-10-18T12:05:08.860941+00:00",
+      "source_posts": [
+        {
+          "id": "2111709068356419724",
+          "sourceUrl": "https://x.com/NFT_Chen/status/2111709068356419724",
+          "author": "NFT_Chen",
+          "createdAt": "2026-10-18T06:40:50+00:00",
+          "likeCount": 54,
+          "viewCount": 7477,
+          "retweetCount": 8,
+          "replyCount": 12,
+          "bookmarkCount": 19,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111709068356419724",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        }
+      ],
+      "duration_seconds": 59.093333,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111708175158444032/vid/avc1/1280x634/BBsLDJYz87TixEo1.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS004",
+      "public_number": 4,
+      "category": "scenes",
+      "title": "A floating pagoda and cherry-blossom island",
+      "takeaway": "Study a stylized island through architecture, vegetation and suspended terrain.",
+      "source_url": "https://x.com/hakmgpt/status/2111321650335813747",
+      "author_handle": "hakmgpt",
+      "date": "2026-10-17",
+      "source_id": "2111321650335813747",
+      "author_url": "https://x.com/hakmgpt",
+      "category_id": "scenes",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 https://t.co/Gg4p179rWC"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/hakmgpt/status/2111321650335813747",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HUzr2IVWwAAz93w.jpg"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111321640512438272",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS004/image-0-10162bd7457a.jpg"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS004/image-0-10162bd7457a.jpg"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 218,
+        "view_count": 9264,
+        "retweet_count": 8,
+        "reply_count": 16,
+        "bookmark_count": 24,
+        "quote_count": 2
+      },
+      "metrics_collected_at": "2026-10-18T02:18:39Z",
+      "source_posts": [
+        {
+          "id": "2111321650335813747",
+          "sourceUrl": "https://x.com/hakmgpt/status/2111321650335813747",
+          "author": "hakmgpt",
+          "createdAt": "2026-10-17T05:01:22Z",
+          "likeCount": 218,
+          "viewCount": 9264,
+          "retweetCount": 8,
+          "replyCount": 16,
+          "bookmarkCount": 24,
+          "quoteCount": 2,
+          "isReply": false,
+          "conversationId": "2111321650335813747",
+          "metricsCollectedAt": "2026-10-18T02:18:39Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS005",
+      "public_number": 5,
+      "category": "scenes",
+      "title": "A cloud-whale city in a floating world",
+      "takeaway": "Explore a fantasy environment with moving whales, floating islands and changing viewpoints.",
+      "source_url": "https://x.com/luojiuyue/status/2111434641324527744",
+      "author_handle": "luojiuyue",
+      "date": "2026-10-17",
+      "source_id": "2111434641324527744",
+      "author_url": "https://x.com/luojiuyue",
+      "category_id": "scenes",
+      "type": "Demo",
+      "body_notes": [
+        "deepseek V4.1 flash 1017\n云鲸之城!!!!超好看!!! https://t.co/lNhJTlDwkC"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/luojiuyue/status/2111434641324527744",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111434140222619648/vid/avc1/420x360/VXwSzw6sAEOPl8Uc.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111434140222619648",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS005/poster-0-e3c81a6cd639.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS005/web-8e7c4eed868d.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS005/poster-0-e3c81a6cd639.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS005/web-8e7c4eed868d.mp4",
+      "metrics": {
+        "like_count": 115,
+        "view_count": 6684,
+        "retweet_count": 3,
+        "reply_count": 24,
+        "bookmark_count": 10,
+        "quote_count": 1
+      },
+      "metrics_collected_at": "2026-10-18T02:17:18Z",
+      "source_posts": [
+        {
+          "id": "2111434641324527744",
+          "sourceUrl": "https://x.com/luojiuyue/status/2111434641324527744",
+          "author": "luojiuyue",
+          "createdAt": "2026-10-17T12:30:21Z",
+          "likeCount": 115,
+          "viewCount": 6684,
+          "retweetCount": 3,
+          "replyCount": 24,
+          "bookmarkCount": 10,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111434641324527744",
+          "metricsCollectedAt": "2026-10-18T02:17:18Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 70.189944,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111434140222619648/vid/avc1/1498x1282/p8hI2yLZR68znE5s.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS006",
+      "public_number": 6,
+      "category": "scenes",
+      "title": "A cinematic village built in JavaScript",
+      "takeaway": "Compare a village sequence through lighting, camera movement and environmental detail.",
+      "source_url": "https://x.com/abhinavflac/status/2111717582118240676",
+      "author_handle": "abhinavflac",
+      "date": "2026-10-18",
+      "source_id": "2111717582118240676",
+      "author_url": "https://x.com/abhinavflac",
+      "category_id": "scenes",
+      "type": "Demo",
+      "body_notes": [
+        "deepseek-v4.1-flash-1017 vs Opus-5.5\n\n&gt;abandoned village cinematic video all frames in pure js\n\nDeepseek cost: $2.5 - 4 hours and Opus cost: $54.2 - 7 hours https://t.co/xMx9CWESfv"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/abhinavflac/status/2111717582118240676",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111717518264135680/vid/avc1/720x808/LfbbS659MybnCvya.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111717518264135680",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS006/poster-0-7d344f86c577.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS006/web-16b2498fe556.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS006/poster-0-7d344f86c577.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS006/web-16b2498fe556.mp4",
+      "metrics": {
+        "like_count": 69,
+        "view_count": 3884,
+        "retweet_count": 4,
+        "reply_count": 9,
+        "bookmark_count": 12,
+        "quote_count": 0
+      },
+      "metrics_collected_at": "2026-10-18T12:05:08.860941+00:00",
+      "source_posts": [
+        {
+          "id": "2111717582118240676",
+          "sourceUrl": "https://x.com/abhinavflac/status/2111717582118240676",
+          "author": "abhinavflac",
+          "createdAt": "2026-10-18T07:14:40+00:00",
+          "likeCount": 69,
+          "viewCount": 3884,
+          "retweetCount": 4,
+          "replyCount": 9,
+          "bookmarkCount": 12,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111717582118240676",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        }
+      ],
+      "duration_seconds": 14.784,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111717518264135680/vid/avc1/1080x1212/4a9wW5t9As43rFVm.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS007",
+      "public_number": 7,
+      "category": "scenes",
+      "title": "Reconstructing buildings from real photographs",
+      "takeaway": "Study a photo-to-3D reconstruction evaluation with examples and a published comparison.",
+      "source_url": "https://x.com/EnactraAI/status/2111672264920039539",
+      "author_handle": "EnactraAI",
+      "date": "2026-10-18",
+      "source_id": "2111672264920039539",
+      "author_url": "https://x.com/EnactraAI",
+      "category_id": "scenes",
+      "type": "Evaluation",
+      "body_notes": [
+        "Wow🙀🙀 DeepSeek V4.1 Flash 1017 joins BuildingBench’s top five—an exciting leap for open models!! 🔥\n\nWe tested its 3D building reconstruction from real photos. An open model delivering this level of spatial reasoning at this cost is exciting to see! 👀\n\n🎈 81.9 overall, up from 72.9 for the previous version. A 9-point jump!\n\n🎈 Slightly higher than Fable 5.1’s 81.4, and essentially level with Sonnet 5.5’s 82.1.\n\n🎈 Estimated median cost: $3.01/task. About 1/11 of Fable 5.1’s cost and 1/15 of Sonnet 5.5’s."
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/EnactraAI/status/2111672264920039539",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/tweet_video/HU4qOGCasAA1E_o.mp4"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111671696910626816",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS007/poster-0-aadf4d3cccd6.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS007/video-0-aadf4d3cccd6.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS007/poster-0-aadf4d3cccd6.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS007/video-0-aadf4d3cccd6.mp4",
+      "metrics": {
+        "like_count": 232,
+        "view_count": 24756,
+        "retweet_count": 29,
+        "reply_count": 13,
+        "bookmark_count": 50,
+        "quote_count": 7
+      },
+      "metrics_collected_at": "2026-10-18T12:05:08.860941+00:00",
+      "source_posts": [
+        {
+          "id": "2111672264920039539",
+          "sourceUrl": "https://x.com/EnactraAI/status/2111672264920039539",
+          "author": "EnactraAI",
+          "createdAt": "2026-10-18T04:14:35+00:00",
+          "likeCount": 232,
+          "viewCount": 24756,
+          "retweetCount": 29,
+          "replyCount": 13,
+          "bookmarkCount": 50,
+          "quoteCount": 7,
+          "isReply": false,
+          "conversationId": "2111672264920039539",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        },
+        {
+          "id": "2111733760890966332",
+          "sourceUrl": "https://x.com/NFT_Chen/status/2111733760890966332",
+          "author": "NFT_Chen",
+          "createdAt": "2026-10-18T08:18:57+00:00",
+          "likeCount": 72,
+          "viewCount": 5816,
+          "retweetCount": 7,
+          "replyCount": 13,
+          "bookmarkCount": 11,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111733760890966332",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        }
+      ],
+      "duration_seconds": 7.99,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/tweet_video/HU4qOGCasAA1E_o.mp4"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS008",
+      "public_number": 8,
+      "category": "animation",
+      "title": "An electric motor explained through 3D animation",
+      "takeaway": "Use the published brief to study an exploded-view animation of an electric motor.",
+      "source_url": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+      "author_handle": "rubenssoto_ai",
+      "date": "2026-10-17",
+      "source_id": "2111513156589629941",
+      "author_url": "https://x.com/rubenssoto_ai",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "Opus 5.5 vs DeepSeek V4.1 Flash 1017\n\nSame prompt.  Same task. \n\nBuild a cinematic 3D animation explaining how a Tesla-style electric motor works.\n\nIs Opus in trouble? https://t.co/Oi2EPft1KR"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+      "prompt_boundary": "1 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [
+        {
+          "id": "P-2111513156589629941",
+          "text": "Build a cinematic 3D animation explaining how a Tesla-style electric motor works.",
+          "source_url": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+          "source_post_id": "2111513156589629941",
+          "evidence_type": "root-text",
+          "sha256": "6681ebb6af972d31ab5770c19f68e0f31d0c14110094990b755b936703795643",
+          "source_text_start": 65,
+          "source_text_end": 146
+        }
+      ],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111513090248310784/vid/avc1/480x610/QOe_5ht3DeZA_s4I.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111513090248310784",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS008/poster-0-af3e9d308160.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS008/web-1be35e9ab7f5.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS008/poster-0-af3e9d308160.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS008/web-1be35e9ab7f5.mp4",
+      "metrics": {
+        "like_count": 298,
+        "view_count": 15669,
+        "retweet_count": 19,
+        "reply_count": 55,
+        "bookmark_count": 67,
+        "quote_count": 2
+      },
+      "metrics_collected_at": "2026-10-18T02:19:35Z",
+      "source_posts": [
+        {
+          "id": "2111513156589629941",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2111513156589629941",
+          "author": "rubenssoto_ai",
+          "createdAt": "2026-10-17T17:42:21Z",
+          "likeCount": 298,
+          "viewCount": 15669,
+          "retweetCount": 19,
+          "replyCount": 55,
+          "bookmarkCount": 67,
+          "quoteCount": 2,
+          "isReply": false,
+          "conversationId": "2111513156589629941",
+          "metricsCollectedAt": "2026-10-18T02:19:35Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 40.0,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111513090248310784/vid/avc1/1080x1376/z5yvJtQXZMZYdDWv.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS009",
+      "public_number": 9,
+      "category": "animation",
+      "title": "A rocket launch scene in two model outputs",
+      "takeaway": "Compare a launch sequence through staging, camera framing and the transition into flight.",
+      "source_url": "https://x.com/Bhavani_00007/status/2111501438564331534",
+      "author_handle": "Bhavani_00007",
+      "date": "2026-10-17",
+      "source_id": "2111501438564331534",
+      "author_url": "https://x.com/Bhavani_00007",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 vs GPT 6.1 Sol\n\nI tested this rocket launch scene and DeepSeek absolutely cooked with this model.\n\nDeepSeek : $0.78, 3 mins\nGPT 6.1 Sol: $6.10, 5 mins\n\nNearly 8x cheaper than Sol, and faster too. This thing is a beast. https://t.co/XuODARgwBC"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/Bhavani_00007/status/2111501438564331534",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111501263028559872/vid/avc1/720x720/u7ateoxylmkkpbek.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111501263028559872",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS009/poster-0-62128118c536.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS009/web-c254cab275ad.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS009/poster-0-62128118c536.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS009/web-c254cab275ad.mp4",
+      "metrics": {
+        "like_count": 751,
+        "view_count": 38787,
+        "retweet_count": 43,
+        "reply_count": 29,
+        "bookmark_count": 108,
+        "quote_count": 9
+      },
+      "metrics_collected_at": "2026-10-18T02:19:41Z",
+      "source_posts": [
+        {
+          "id": "2111501438564331534",
+          "sourceUrl": "https://x.com/Bhavani_00007/status/2111501438564331534",
+          "author": "Bhavani_00007",
+          "createdAt": "2026-10-17T16:55:47Z",
+          "likeCount": 751,
+          "viewCount": 38787,
+          "retweetCount": 43,
+          "replyCount": 29,
+          "bookmarkCount": 108,
+          "quoteCount": 9,
+          "isReply": false,
+          "conversationId": "2111501438564331534",
+          "metricsCollectedAt": "2026-10-18T02:19:41Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 25.0,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111501263028559872/vid/avc1/1200x1200/2EX3X2-fj5uFUeHi.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS010",
+      "public_number": 10,
+      "category": "animation",
+      "title": "A honeybee moving across a sunflower",
+      "takeaway": "Study a close-up nature scene through petal detail, insect movement and camera distance.",
+      "source_url": "https://x.com/loktar00/status/2111468860935127532",
+      "author_handle": "loktar00",
+      "date": "2026-10-17",
+      "source_id": "2111468860935127532",
+      "author_url": "https://x.com/loktar00",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 everyone's talking about it for a reason.\n\nIt does great with 3d built this honeybee on a sunflower like it was nothing. \n\nUsed Deepseek Harness, 1 turn, looks so good! https://t.co/5iJAoVJUpy"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/loktar00/status/2111468860935127532",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111468564410486784/vid/avc1/640x360/AuSJOp5sBxOXLROL.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111468564410486784",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS010/poster-0-155a610fbfb0.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS010/web-a865829b23aa.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS010/poster-0-155a610fbfb0.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS010/web-a865829b23aa.mp4",
+      "metrics": {
+        "like_count": 1016,
+        "view_count": 32582,
+        "retweet_count": 41,
+        "reply_count": 51,
+        "bookmark_count": 184,
+        "quote_count": 8
+      },
+      "metrics_collected_at": "2026-10-18T02:16:48Z",
+      "source_posts": [
+        {
+          "id": "2111468860935127532",
+          "sourceUrl": "https://x.com/loktar00/status/2111468860935127532",
+          "author": "loktar00",
+          "createdAt": "2026-10-17T14:46:20Z",
+          "likeCount": 1016,
+          "viewCount": 32582,
+          "retweetCount": 41,
+          "replyCount": 51,
+          "bookmarkCount": 184,
+          "quoteCount": 8,
+          "isReply": false,
+          "conversationId": "2111468860935127532",
+          "metricsCollectedAt": "2026-10-18T02:16:48Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 90.56,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111468564410486784/vid/avc1/1920x1080/wZOsbQIGSKL9irKE.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS011",
+      "public_number": 11,
+      "category": "animation",
+      "title": "Robot assembly and launch in Three.js",
+      "takeaway": "Follow a robot assembling on a platform and launching into the sky.",
+      "source_url": "https://x.com/alohaproxy/status/2111466763959271873",
+      "author_handle": "alohaproxy",
+      "date": "2026-10-17",
+      "source_id": "2111466763959271873",
+      "author_url": "https://x.com/alohaproxy",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "I gave DeepSeek V4.1 Flash 1017 my robo-assembly + launch test in Three.js.\n\nAnd this is what it generated.\n\nThe cost? Just $0.04 via @AiHubMix \n\nIt's crazy how cheap DeepSeek models are while still producing outputs like this. https://t.co/ew2t2kRuin"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/alohaproxy/status/2111466763959271873",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111457701469491200/vid/avc1/632x360/mRxplfjbjAlW3uMz.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111457701469491200",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS011/poster-0-ba4a61cdac5d.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS011/web-85af1fa6f85c.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS011/poster-0-ba4a61cdac5d.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS011/web-85af1fa6f85c.mp4",
+      "metrics": {
+        "like_count": 51,
+        "view_count": 1222,
+        "retweet_count": 1,
+        "reply_count": 23,
+        "bookmark_count": 1,
+        "quote_count": 0
+      },
+      "metrics_collected_at": "2026-10-18T02:16:50Z",
+      "source_posts": [
+        {
+          "id": "2111466763959271873",
+          "sourceUrl": "https://x.com/alohaproxy/status/2111466763959271873",
+          "author": "alohaproxy",
+          "createdAt": "2026-10-17T14:38:00Z",
+          "likeCount": 51,
+          "viewCount": 1222,
+          "retweetCount": 1,
+          "replyCount": 23,
+          "bookmarkCount": 1,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111466763959271873",
+          "metricsCollectedAt": "2026-10-18T02:16:50Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 36.933333,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111457701469491200/vid/avc1/2940x1672/ICtzyAdLY59k7_oQ.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS012",
+      "public_number": 12,
+      "category": "animation",
+      "title": "A cycling pelican across two model versions",
+      "takeaway": "Compare an animated character and bicycle across the older model and the 1017 update.",
+      "source_url": "https://x.com/rubenssoto_ai/status/2111436648323916126",
+      "author_handle": "rubenssoto_ai",
+      "date": "2026-10-17",
+      "source_id": "2111436648323916126",
+      "author_url": "https://x.com/rubenssoto_ai",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash vs. DeepSeek V4.1 Flash 1017\n\nSame test, same setup. Interesting results!\n\n⚙️ Test setup\nProvider: DeepSeek via OpenRouter\nHarness: OpenCode\n\n🔹 DeepSeek V4.1 Flash\n• Cost: $0.08\n• Tokens: 146,791\n• Time: 22m 53s\n\n🟢 DeepSeek V4.1 Flash 1017\n• Cost: $0.06\n• Tokens: 101,074\n• Time: 9m 26s\n\n📊 The difference:\n• 25% cheaper\n• 31% fewer tokens\n• 59% less execution time\n\nThat's a pretty impressive improvement!\n\nWhat do you think of these results?"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/rubenssoto_ai/status/2111436648323916126",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111436224179150848/vid/avc1/720x810/hfxQNRDcr3q2ej0H.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111436224179150848",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS012/poster-0-123cab4158e5.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS012/web-1c81f8e3f417.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS012/poster-0-123cab4158e5.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS012/web-1c81f8e3f417.mp4",
+      "metrics": {
+        "like_count": 96,
+        "view_count": 4510,
+        "retweet_count": 2,
+        "reply_count": 31,
+        "bookmark_count": 5,
+        "quote_count": 0
+      },
+      "metrics_collected_at": "2026-10-18T02:17:16Z",
+      "source_posts": [
+        {
+          "id": "2111436648323916126",
+          "sourceUrl": "https://x.com/rubenssoto_ai/status/2111436648323916126",
+          "author": "rubenssoto_ai",
+          "createdAt": "2026-10-17T12:38:20Z",
+          "likeCount": 96,
+          "viewCount": 4510,
+          "retweetCount": 2,
+          "replyCount": 31,
+          "bookmarkCount": 5,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111436648323916126",
+          "metricsCollectedAt": "2026-10-18T02:17:16Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 30.0,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111436224179150848/vid/avc1/1920x2160/QkBCYrXGHM39xraU.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS013",
+      "public_number": 13,
+      "category": "animation",
+      "title": "A whale-breach scene with an iteration comparison",
+      "takeaway": "Inspect exposure, whale geometry and water motion across a creator's comparison.",
+      "source_url": "https://x.com/Bhavani_00007/status/2111417280366031318",
+      "author_handle": "Bhavani_00007",
+      "date": "2026-10-17",
+      "source_id": "2111417280366031318",
+      "author_url": "https://x.com/Bhavani_00007",
+      "category_id": "animation",
+      "type": "Evaluation",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 is a big upgrade over DeepSeek V4.1 Flash, and it’s super fast.\n\nI gave it the whale breach test and compared it with Kimi K3, since it beats Kimi in benchmarks.\n\nIts one-shot attempt came out with the colors completely blown out, and the whale wasn’t good (image in replies). So I capped it to $2.50, the same amount Kimi K3 spent on its one-shot, and Kimi still did better.\n\nIt’s better than V4.1 and GPT 5.6 Sol, but not on par with Opus 5 or Kimi in frontend and 3D."
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/Bhavani_00007/status/2111417280366031318",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111417224145821696/vid/avc1/720x960/ZzvJPIt34mitVK0-.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111417224145821696",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS013/poster-0-4fd34f8f5731.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS013/web-b208f8bafdbf.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS013/poster-0-4fd34f8f5731.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS013/web-b208f8bafdbf.mp4",
+      "metrics": {
+        "like_count": 110,
+        "view_count": 10822,
+        "retweet_count": 5,
+        "reply_count": 24,
+        "bookmark_count": 10,
+        "quote_count": 1
+      },
+      "metrics_collected_at": "2026-10-18T02:17:30Z",
+      "source_posts": [
+        {
+          "id": "2111417280366031318",
+          "sourceUrl": "https://x.com/Bhavani_00007/status/2111417280366031318",
+          "author": "Bhavani_00007",
+          "createdAt": "2026-10-17T11:21:22Z",
+          "likeCount": 110,
+          "viewCount": 10822,
+          "retweetCount": 5,
+          "replyCount": 24,
+          "bookmarkCount": 10,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111417280366031318",
+          "metricsCollectedAt": "2026-10-18T02:17:30Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 18.0,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111417224145821696/vid/avc1/1080x1440/mn3iXjkK6pHQLhYX.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS014",
+      "public_number": 14,
+      "category": "animation",
+      "title": "A cycling peacock animation test",
+      "takeaway": "Inspect leg articulation, tail shape and forward motion in a stylized cycling scene.",
+      "source_url": "https://x.com/SahilPanhotra/status/2111415760681849025",
+      "author_handle": "SahilPanhotra",
+      "date": "2026-10-17",
+      "source_id": "2111415760681849025",
+      "author_url": "https://x.com/SahilPanhotra",
+      "category_id": "animation",
+      "type": "Evaluation",
+      "body_notes": [
+        "tested DeepSeek V4.1 Flash 1017 on my peacock test\n\nthis is WITHOUT a recursive loop.\n\nngl the design looks very similar to GPT-6 Luna Max. makes me wonder if they distilled from OpenAI this time.\n\nthe scene looks pretty good, but the legs bend weirdly, the tail feathers look like eyes on sticks, and the bike is basically going nowhere 😭\n\nI'd put it around GPT-6 Luna Max level for now.\n\ncost me $0.53 via @aihubmix\n\nposting the recursive loop result soon."
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/SahilPanhotra/status/2111415760681849025",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111415599796797440/vid/avc1/1280x720/61iauh8dxzboe_PC.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111415599796797440",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS014/poster-0-67ae34711c12.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS014/web-6c1d19111122.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS014/poster-0-67ae34711c12.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS014/web-6c1d19111122.mp4",
+      "metrics": {
+        "like_count": 52,
+        "view_count": 13213,
+        "retweet_count": 1,
+        "reply_count": 28,
+        "bookmark_count": 6,
+        "quote_count": 1
+      },
+      "metrics_collected_at": "2026-10-18T02:17:32Z",
+      "source_posts": [
+        {
+          "id": "2111415760681849025",
+          "sourceUrl": "https://x.com/SahilPanhotra/status/2111415760681849025",
+          "author": "SahilPanhotra",
+          "createdAt": "2026-10-17T11:15:20Z",
+          "likeCount": 52,
+          "viewCount": 13213,
+          "retweetCount": 1,
+          "replyCount": 28,
+          "bookmarkCount": 6,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111415760681849025",
+          "metricsCollectedAt": "2026-10-18T02:17:32Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 10.4,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111415599796797440/vid/avc1/1920x1080/K1CYdzvDP0Jmftox.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS015",
+      "public_number": 15,
+      "category": "animation",
+      "title": "Interactive gummy bears with soft-body motion",
+      "takeaway": "Explore a playful interface built around translucent gummy bears, deformation and movement.",
+      "source_url": "https://x.com/teortaxesTex/status/2111307024797753793",
+      "author_handle": "teortaxesTex",
+      "date": "2026-10-17",
+      "source_id": "2111307024797753793",
+      "author_url": "https://x.com/teortaxesTex",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1F-1017 has built this in like 5 minutes.\n(Since then it's autistically rabbitholing into minor details)\nThese are unambiguously better than Opus's.\nIt's a good deal stronger than V4.1. https://t.co/r1atFvSdA2"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/teortaxesTex/status/2111307024797753793",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111306738607489024/vid/avc1/1100x720/U-iCLgdIftSpAT59.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111306738607489024",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS015/poster-0-44cfc53611a0.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS015/web-8028884e0a02.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS015/poster-0-44cfc53611a0.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS015/web-8028884e0a02.mp4",
+      "metrics": {
+        "like_count": 1656,
+        "view_count": 191431,
+        "retweet_count": 89,
+        "reply_count": 60,
+        "bookmark_count": 377,
+        "quote_count": 23
+      },
+      "metrics_collected_at": "2026-10-18T12:07:47.655940+00:00",
+      "source_posts": [
+        {
+          "id": "2111307024797753793",
+          "sourceUrl": "https://x.com/teortaxesTex/status/2111307024797753793",
+          "author": "teortaxesTex",
+          "createdAt": "2026-10-17T04:03:15+00:00",
+          "likeCount": 1656,
+          "viewCount": 191431,
+          "retweetCount": 89,
+          "replyCount": 60,
+          "bookmarkCount": 377,
+          "quoteCount": 23,
+          "isReply": false,
+          "conversationId": "2111307024797753793",
+          "metricsCollectedAt": "2026-10-18T12:07:47.655940+00:00",
+          "sourceBatch": "linked_primary_source"
+        },
+        {
+          "id": "2111336668854976655",
+          "sourceUrl": "https://x.com/NFT_Chen/status/2111336668854976655",
+          "author": "NFT_Chen",
+          "createdAt": "2026-10-17T06:01:03Z",
+          "likeCount": 108,
+          "viewCount": 23520,
+          "retweetCount": 9,
+          "replyCount": 18,
+          "bookmarkCount": 24,
+          "quoteCount": 3,
+          "isReply": false,
+          "conversationId": "2111336668854976655",
+          "metricsCollectedAt": "2026-10-18T02:18:37Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 15.936,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111306738607489024/vid/avc1/2472x1618/ybxuEuMLvV_TFWHd.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS016",
+      "public_number": 16,
+      "category": "animation",
+      "title": "An animated SVG drawing of Miku",
+      "takeaway": "Compare how two models reveal line work and color during an illustrated drawing sequence.",
+      "source_url": "https://x.com/leo114119/status/2111508406217658697",
+      "author_handle": "leo114119",
+      "date": "2026-10-17",
+      "source_id": "2111508406217658697",
+      "author_url": "https://x.com/leo114119",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "Deepseek v4.1 Flash 1017 VS Gemini4 Argon miku SVG绘图动画过程\n\n老实说，在模仿人类作画这一块，好像还是argon 强一点？\n\nDeepseek v4.1 Flash是按自已的理解来做了手绘的过程 https://t.co/OFKMkmVJJD"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/leo114119/status/2111508406217658697",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111508049194356736/vid/avc1/960x720/FzU2MS3bFdbTl1er.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111508049194356736",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS016/poster-0-69ee3f7f1f44.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS016/web-4dba016f577a.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS016/poster-0-69ee3f7f1f44.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS016/web-4dba016f577a.mp4",
+      "metrics": {
+        "like_count": 93,
+        "view_count": 10556,
+        "retweet_count": 4,
+        "reply_count": 5,
+        "bookmark_count": 37,
+        "quote_count": 0
+      },
+      "metrics_collected_at": "2026-10-18T02:19:37Z",
+      "source_posts": [
+        {
+          "id": "2111508406217658697",
+          "sourceUrl": "https://x.com/leo114119/status/2111508406217658697",
+          "author": "leo114119",
+          "createdAt": "2026-10-17T17:23:28Z",
+          "likeCount": 93,
+          "viewCount": 10556,
+          "retweetCount": 4,
+          "replyCount": 5,
+          "bookmarkCount": 37,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111508406217658697",
+          "metricsCollectedAt": "2026-10-18T02:19:37Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 22.0,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111508049194356736/vid/avc1/1600x1200/J8uVufwZ5pbO5Qcg.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS017",
+      "public_number": 17,
+      "category": "animation",
+      "title": "A pelican riding a bicycle",
+      "takeaway": "Study character silhouette, bicycle structure and a compact illustrated composition.",
+      "source_url": "https://x.com/leo114119/status/2111381234127626286",
+      "author_handle": "leo114119",
+      "date": "2026-10-17",
+      "source_id": "2111381234127626286",
+      "author_url": "https://x.com/leo114119",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "Deepseek V4.1 Flash 1017 鹈鹕测试\n\n进步太大了。。。\n\n介于sonnet 5.5和 opus 5.5 的之间。。。。 https://t.co/Kv2TBLNi0y"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/leo114119/status/2111381234127626286",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU0h6nRakAAQ54Y.png"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111381091164786688",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS017/image-0-7fb4918f1de6.png"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS017/image-0-7fb4918f1de6.png"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 137,
+        "view_count": 18258,
+        "retweet_count": 1,
+        "reply_count": 35,
+        "bookmark_count": 5,
+        "quote_count": 1
+      },
+      "metrics_collected_at": "2026-10-18T02:18:13Z",
+      "source_posts": [
+        {
+          "id": "2111381234127626286",
+          "sourceUrl": "https://x.com/leo114119/status/2111381234127626286",
+          "author": "leo114119",
+          "createdAt": "2026-10-17T08:58:08Z",
+          "likeCount": 137,
+          "viewCount": 18258,
+          "retweetCount": 1,
+          "replyCount": 35,
+          "bookmarkCount": 5,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111381234127626286",
+          "metricsCollectedAt": "2026-10-18T02:18:13Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS018",
+      "public_number": 18,
+      "category": "animation",
+      "title": "A stormfront and thunderhead simulation",
+      "takeaway": "Use a weather brief to study cloud volume, light and changes across a wide landscape.",
+      "source_url": "https://x.com/loktar00/status/2111688201115140489",
+      "author_handle": "loktar00",
+      "date": "2026-10-18",
+      "source_id": "2111688201115140489",
+      "author_url": "https://x.com/loktar00",
+      "category_id": "animation",
+      "type": "Demo",
+      "body_notes": [
+        "Asked DeepSeek-V4.1-Flash-1017 to create a Stormfront, a big thunderhead and make it as realistic as possible. \n\n@deepseek_ai has done an excellent job with this model.\n\nGetting such excellent results out of this model again, love it. https://t.co/LuHhIheX7d"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/loktar00/status/2111688201115140489",
+      "prompt_boundary": "1 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [
+        {
+          "id": "P-2111688201115140489",
+          "text": "create a Stormfront, a big thunderhead and make it as realistic as possible.",
+          "source_url": "https://x.com/loktar00/status/2111688201115140489",
+          "source_post_id": "2111688201115140489",
+          "evidence_type": "root-text",
+          "sha256": "c9767ff4507f8e1233bb5fb123c04ad4c5e1df8bfce392cc1eedecc6b88e34da",
+          "source_text_start": 34,
+          "source_text_end": 110
+        }
+      ],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111687732925734912/vid/avc1/640x360/KA1t1iV4-B3YJuUX.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111687732925734912",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS018/poster-0-1d81433c91a7.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS018/web-3ef03e8d90ab.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS018/poster-0-1d81433c91a7.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS018/web-3ef03e8d90ab.mp4",
+      "metrics": {
+        "like_count": 56,
+        "view_count": 2434,
+        "retweet_count": 0,
+        "reply_count": 3,
+        "bookmark_count": 3,
+        "quote_count": 0
+      },
+      "metrics_collected_at": "2026-10-18T12:05:08.860941+00:00",
+      "source_posts": [
+        {
+          "id": "2111688201115140489",
+          "sourceUrl": "https://x.com/loktar00/status/2111688201115140489",
+          "author": "loktar00",
+          "createdAt": "2026-10-18T05:17:55+00:00",
+          "likeCount": 56,
+          "viewCount": 2434,
+          "retweetCount": 0,
+          "replyCount": 3,
+          "bookmarkCount": 3,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111688201115140489",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        }
+      ],
+      "duration_seconds": 60.053333,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111687732925734912/vid/avc1/1920x1080/RcD0IKB6bcUazlou.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS019",
+      "public_number": 19,
+      "category": "motion",
+      "title": "An API tutorial as a motion-design video",
+      "takeaway": "Study how OpenDesign Motion turns a software setup flow into short instructional scenes.",
+      "source_url": "https://x.com/OpenDesignHQ/status/2111440345032790310",
+      "author_handle": "OpenDesignHQ",
+      "date": "2026-10-17",
+      "source_id": "2111440345032790310",
+      "author_url": "https://x.com/OpenDesignHQ",
+      "category_id": "motion",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek-V4.1-Flash-1017 is great at tutorial-style motion videos.\n\nWe made this with the model using OpenDesign Motion: a quick guide to using the OpenDesign API in other coding agents to access DeepSeek V4.1 Flash 1017 and more models. https://t.co/mgu2jiBPYr"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/OpenDesignHQ/status/2111440345032790310",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111439917926805504/vid/avc1/640x360/72hsl6jLzy4bsnp2.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111439917926805504",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS019/poster-0-5be425c34ea4.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS019/web-0e1154cbc7b4.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS019/poster-0-5be425c34ea4.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS019/web-0e1154cbc7b4.mp4",
+      "metrics": {
+        "like_count": 164,
+        "view_count": 25016,
+        "retweet_count": 5,
+        "reply_count": 16,
+        "bookmark_count": 69,
+        "quote_count": 2
+      },
+      "metrics_collected_at": "2026-10-18T02:17:14Z",
+      "source_posts": [
+        {
+          "id": "2111440345032790310",
+          "sourceUrl": "https://x.com/OpenDesignHQ/status/2111440345032790310",
+          "author": "OpenDesignHQ",
+          "createdAt": "2026-10-17T12:53:01Z",
+          "likeCount": 164,
+          "viewCount": 25016,
+          "retweetCount": 5,
+          "replyCount": 16,
+          "bookmarkCount": 69,
+          "quoteCount": 2,
+          "isReply": false,
+          "conversationId": "2111440345032790310",
+          "metricsCollectedAt": "2026-10-18T02:17:14Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111442747999789204",
+          "sourceUrl": "https://x.com/tuturetom/status/2111442747999789204",
+          "author": "tuturetom",
+          "createdAt": "2026-10-17T13:02:34Z",
+          "likeCount": 295,
+          "viewCount": 21429,
+          "retweetCount": 28,
+          "replyCount": 21,
+          "bookmarkCount": 247,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111442747999789204",
+          "metricsCollectedAt": "2026-10-18T02:17:12Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 67.477333,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111439917926805504/vid/avc1/1920x1080/JMw_4Ms1N3Tfw25d.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS020",
+      "public_number": 20,
+      "category": "motion",
+      "title": "A typography and motion-design reel",
+      "takeaway": "Explore the timing of typography, transitions and a compact visual system.",
+      "source_url": "https://x.com/SahilPanhotra/status/2111365386939818108",
+      "author_handle": "SahilPanhotra",
+      "date": "2026-10-17",
+      "source_id": "2111365386939818108",
+      "author_url": "https://x.com/SahilPanhotra",
+      "category_id": "motion",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 is mogging Opus 5.5 😭\n\nand this is just a Flash model\n\nwe haven't even seen V4.1 Pro yet 💀 https://t.co/SCrbub9v2F"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/SahilPanhotra/status/2111365386939818108",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111338561920536576/vid/avc1/1280x720/_vNnHpuZeFwkcPhX.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111338561920536576",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS020/poster-0-ed3c1ee1203f.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS020/web-94f38580a6dc.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS020/poster-0-ed3c1ee1203f.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS020/web-94f38580a6dc.mp4",
+      "metrics": {
+        "like_count": 895,
+        "view_count": 34019,
+        "retweet_count": 28,
+        "reply_count": 45,
+        "bookmark_count": 184,
+        "quote_count": 5
+      },
+      "metrics_collected_at": "2026-10-18T02:18:35Z",
+      "source_posts": [
+        {
+          "id": "2111365386939818108",
+          "sourceUrl": "https://x.com/SahilPanhotra/status/2111365386939818108",
+          "author": "SahilPanhotra",
+          "createdAt": "2026-10-17T07:55:10Z",
+          "likeCount": 895,
+          "viewCount": 34019,
+          "retweetCount": 28,
+          "replyCount": 45,
+          "bookmarkCount": 184,
+          "quoteCount": 5,
+          "isReply": false,
+          "conversationId": "2111365386939818108",
+          "metricsCollectedAt": "2026-10-18T02:18:35Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111435923611365803",
+          "sourceUrl": "https://x.com/AM09_21/status/2111435923611365803",
+          "author": "AM09_21",
+          "createdAt": "2026-10-17T12:35:27Z",
+          "likeCount": 163,
+          "viewCount": 7082,
+          "retweetCount": 18,
+          "replyCount": 5,
+          "bookmarkCount": 41,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111435923611365803",
+          "metricsCollectedAt": "2026-10-18T02:17:18Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 15.061333,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111338561920536576/vid/avc1/1920x1080/Nlzy6BV1cJLogwX3.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS021",
+      "public_number": 21,
+      "category": "motion",
+      "title": "A local-AI product film with Blender and Three.js",
+      "takeaway": "Study how a product film combines 3D hardware scenes, typography and transitions.",
+      "source_url": "https://x.com/superalesha/status/2111411889217651196",
+      "author_handle": "superalesha",
+      "date": "2026-10-17",
+      "source_id": "2111411889217651196",
+      "author_url": "https://x.com/superalesha",
+      "category_id": "motion",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 is the first open-weight model I've tried that feels this fucking close to Opus at Blender + Three.js.\n\nIt made this video 👇 https://t.co/6BgZnLaY7L"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/superalesha/status/2111411889217651196",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111411769952632832/vid/avc1/1280x720/YNsLvMrh8AX6fkP0.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111411769952632832",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS021/poster-0-b12bca8d2d30.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS021/web-32d55f0feb25.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS021/poster-0-b12bca8d2d30.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS021/web-32d55f0feb25.mp4",
+      "metrics": {
+        "like_count": 457,
+        "view_count": 15758,
+        "retweet_count": 15,
+        "reply_count": 40,
+        "bookmark_count": 85,
+        "quote_count": 4
+      },
+      "metrics_collected_at": "2026-10-18T02:17:36Z",
+      "source_posts": [
+        {
+          "id": "2111411889217651196",
+          "sourceUrl": "https://x.com/superalesha/status/2111411889217651196",
+          "author": "superalesha",
+          "createdAt": "2026-10-17T10:59:57Z",
+          "likeCount": 457,
+          "viewCount": 15758,
+          "retweetCount": 15,
+          "replyCount": 40,
+          "bookmarkCount": 85,
+          "quoteCount": 4,
+          "isReply": false,
+          "conversationId": "2111411889217651196",
+          "metricsCollectedAt": "2026-10-18T02:17:36Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 24.042667,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111411769952632832/vid/avc1/1920x1080/XzlC_wFW55DsTmEl.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS022",
+      "public_number": 22,
+      "category": "motion",
+      "title": "Ink Play in a hand-drawn motion style",
+      "takeaway": "Follow ink shapes transforming into characters, flourishes and a closing title.",
+      "source_url": "https://x.com/zmdsb259414/status/2111683683069628789",
+      "author_handle": "zmdsb259414",
+      "date": "2026-10-18",
+      "source_id": "2111683683069628789",
+      "author_url": "https://x.com/zmdsb259414",
+      "category_id": "motion",
+      "type": "Demo",
+      "body_notes": [
+        "震惊瘫坐！我用 DeepSeek-V4.1-Flash-1017  \n\n37 分钟生成了一段 10秒MG逐帧手绘风格短片《墨戏》\n\n特别接近 opus5.5 的那种感觉了\n\n新模型我已玩的忘乎所以， DeepSeek 就是国模的未来！\n\n提示词放评论区了，这个是我设计参考的仓库：\nhttps://t.co/vX9r5corAz https://t.co/u7vvzYaRa5"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/zmdsb259414/status/2111683683069628789",
+      "prompt_boundary": "1 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [
+        {
+          "id": "P-2111683784416657753",
+          "text": "You are the director, motion designer, engineer and sound designer of ONE 10-second motion-design film.\nThe goal is the most classic, yet most stunning form of this style — award-shortlist / high-end commercial quality. A clean,\ntemplate-looking result is a fail. Benchmarks: Buck, ManvsMachine, Ordinary Folk, Giant Ant, Territory Studio, Apple keynote\nmotion, Pentagram motion identities, top Behance/Motionographer features, top 抖音/B站 designer accounts.\n\n# Style\n逐帧手绘 / 线条沸腾 Cel Animation / Frame-by-Frame & Line Boil\n\n# Output (fixed)\n- 1920×1080, 24 fps, exactly 10.000 s (240 frames), H.264 MP4 with stereo AAC audio (48 kHz), mastered to −14 LUFS\n  integrated, true peak ≤ −1 dBTP. Final file: video.mp4.\n\n# Suggested technical route\nHTML Canvas2D: custom variable-width brush renderer (centreline + pressure → outline polygon), boil = 3–4 jitter variants cycled every 2 frames; paper texture multiply\n(You may choose a better route if it clearly raises quality; say why.)\n\n# Creative seed\n「墨戏」Hand-made frame-by-frame magic, Buck/Giant-Ant hybrid (clean shapes + hand-drawn cel FX), animated on 2s at 24 fps.\n- Warm rice-paper ground; ink linework that BOILS (lines redrawn with slight variation every 2 frames); fills slightly off-register like hand colouring.\n- Story: a brush tip hovers, a single ink drop falls and splashes (SMEAR frame, on 1s for the fast action) → the ink blot gathers into a small ink spirit (round head + brush-stroke tail), anticipation + squash, it flicks ink and dances (on 2s) → it leaps and bursts into cel FX: flying-white dry-brush strokes, curling ink mist, splatter, speed lines → the FX re-form into hand-lettered title 「墨戏」 that keeps boiling on a 1s hold (on 3s for the hold).\n- Palette 3–4 colours: ink black #1A1A1A, cinnabar red #C8402A (seal accent, sparing), rattan yellow #E8A93A (sparks/highlights), rice-paper cream #F2E8D5; paper grain multiply 10–15%.\n- CJK text 「墨戏」must be hand-lettered with brush-stroke weight contrast (thick entry, tapered exit, visible dry-brush edges); a cinnabar seal 「墨戏」stamps at lower-right as the final accent, ~5% safe margin.\nSound: playful jazzy pizzicato/xylophone bed + cartoon SFX: ink drop \"tap\", splash \"plip\", brush flick \"swish\", dry-brush \"shh\", splatter \"tick-tick\", ink mist \"fwoof\", seal stamp \"tok\" — synced to the frame.\n\nYou are the director: you may change the concept, copy, story beats and brand names if you find a stronger idea, but the result must remain the CANONICAL, instantly-recognisable form of this style and must hit its signature features below.\n\n# Signature features and key techniques (the result is judged against these)\n手绘逐帧或在矢量动画上叠加逐帧质感，标志性特征是 line boil——线条每隔几帧轻微抖动，仿佛画面在'呼吸'。Giant Ant、Buck 等工作室大量使用 cel 元素（烟、水花、速度线）点缀主动画，反数字精致感的核心手段。\n视觉特征 线条持续微抖(boil), 一拍二/一拍三节奏, smear拖影帧, 手绘烟火水花点缀, 纸纹底\n关键技法 打帧节奏：24fps 下'一拍二'（实际12fps）为主，快动作切'一拍一'，静止镜头'一拍三'\nline boil 伪造法：AE 用 Turbulent Displace（数量2~5、大小50）+ 每 2 帧随机化 evolution + Posterize Time 12fps；真 boil 则画 3~4 张微差线稿循环\nsmear frame：快速位移的中间帧把物体拉长 150%~300% 只保留 1 帧\ncel FX 点缀层：烟/水花/闪电用纯手绘逐帧叠在矢量主体上（Buck 式 hybrid）\n整体叠纸纹（multiply 10~15%）统一手作气质\n\n# How to work\n1. Treatment. Write down one clear idea: a hook in the first 0.5 s (never open on more than 0.3 s of empty or black), an\n   escalation, one unmistakable hero moment at ~60–75 % of the runtime, and a composed end frame held ~0.8–1.2 s with living\n   micro-motion. Map every signature feature above to a moment. Keep one cue sheet (beats and hit times) that both the\n   picture and the sound read from.\n2. Key frames before motion. Build the look, render stills at 6–10 key times and actually look at them. Each still should be\n   poster-worthy: composition, hierarchy, negative space, type set properly (kerning, line-height, weight contrast, CJK\n   punctuation, ~5 % safe margins). Iterate until nothing looks default, generic, cramped or \"AI-template\".\n3. Motion. Build the choreography and preview at low resolution. Step through the fastest moves frame by frame: spacing,\n   easing, arcs, overlap, anticipation and follow-through, motion blur. No unintended dead spans; the energy follows the music.\n4. Sound. Write genre-correct music and sound design locked to the cue sheet. Check that visual hits land on audio onsets.\n   Master to the output spec.\n5. Final. Render at full resolution (motion blur where apt), then check: exactly 10.00 s, resolution, fps, audio present and at\n   the right loudness, no black frames, no fallback fonts or tofu, no clipped elements at the frame edges, no shimmer on thin\n   lines, no gradient banding. Fix and repeat until you would submit it to a festival.\n6. Write an honest self-critique: what is strongest, what is weakest, what you would do with more time.\n\n# Rules\n- Rendering must be deterministic: every frame is a pure function of time t. Seeded randomness only; physics and particles\n  precomputed or closed-form; no real-time clocks; no state-triggered CSS transitions. A reliable route: a web page that can\n  draw any time t on request, captured frame by frame with a headless browser and encoded with ffmpeg (or a Blender script\n  that renders a PNG sequence).\n- Assets: only CC0 / public domain / OFL / Apache / free-for-commercial-use. Record each source and licence in CREDITS.md.\n  No real brand trademarks; invent brand names.\n- On-screen text must be correct and natural: idiomatic Chinese, proper CJK punctuation, no typos.\n\n# Craft checklist (what a jury looks for)\n- Style authenticity: an expert names the style in one second; every signature technique is present and executed correctly.\n- Motion craft: purposeful easing (no linear unless mechanical by design), overlap and stagger, anticipation and\n  follow-through, arcs, squash and stretch where the style allows, consistent physics, motion blur where apt; transitions\n  carried by elements, not crossfades.\n- Rhythm: hits locked to the music; contrast between busy and calm; no monotony.\n- Design: strong composition, grid, typographic hierarchy, controlled palette; texture and finishing (grain, glow, vignette)\n  only where the style wants it; nothing looks accidental.\n- Technical polish: no jitter (unless intended), no popping, no aliasing, no banding, no fallback fonts, no half-loaded images.\n- Sound: genre-correct, musical, synced, mastered.\n\n# Before you deliver, score yourself honestly\n1–10 on style fidelity, concept wow, motion craft, design & typography, finish & texture, sound & sync, technical\n(6 = template-level, 8 = high-end agency, 9 = award shortlist). Aim for 9; fix whatever scores lowest first.\n\n# Deliver\nvideo.mp4, plus a short report: the concept in two sentences; a beat sheet with timecodes; how each signature feature is\nrealised; the tech route; check numbers (duration, resolution, fps, loudness, true peak); your honest top-3 weaknesses.",
+          "source_url": "https://x.com/zmdsb259414/status/2111683784416657753",
+          "source_post_id": "2111683784416657753",
+          "evidence_type": "author-reply-text",
+          "sha256": "051230f71884fb504c36e2754dc0b7e0836382c97593a197fe3c2785de1f2cb6",
+          "source_text_start": 4,
+          "source_text_end": 6807,
+          "root_post_id": "2111683683069628789",
+          "parent_post_id": "2111683683069628789"
+        }
+      ],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111682983203942400/vid/avc1/1280x720/684oS8STf916QOE9.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111682983203942400",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS022/poster-0-95ac710d9987.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS022/web-fc11c0b2b3a0.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS022/poster-0-95ac710d9987.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS022/web-fc11c0b2b3a0.mp4",
+      "metrics": {
+        "like_count": 101,
+        "view_count": 8338,
+        "retweet_count": 8,
+        "reply_count": 30,
+        "bookmark_count": 62,
+        "quote_count": 3
+      },
+      "metrics_collected_at": "2026-10-18T12:05:08.860941+00:00",
+      "source_posts": [
+        {
+          "id": "2111683683069628789",
+          "sourceUrl": "https://x.com/zmdsb259414/status/2111683683069628789",
+          "author": "zmdsb259414",
+          "createdAt": "2026-10-18T04:59:57+00:00",
+          "likeCount": 101,
+          "viewCount": 8338,
+          "retweetCount": 8,
+          "replyCount": 30,
+          "bookmarkCount": 62,
+          "quoteCount": 3,
+          "isReply": false,
+          "conversationId": "2111683683069628789",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        }
+      ],
+      "duration_seconds": 10.048,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111682983203942400/vid/avc1/1920x1080/aiFhU3M2zJNtm8wA.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS023",
+      "public_number": 23,
+      "category": "web",
+      "title": "One hundred standalone HTML visual studies",
+      "takeaway": "Explore a creator's collection of interface, typography, generative-art and physics experiments.",
+      "source_url": "https://x.com/MiaAI_lab/status/2111543797540585960",
+      "author_handle": "MiaAI_lab",
+      "date": "2026-10-17",
+      "source_id": "2111543797540585960",
+      "author_url": "https://x.com/MiaAI_lab",
+      "category_id": "web",
+      "type": "Demo",
+      "body_notes": [
+        "I've asked DeepSeek V4.1 Flash 1017 to create 100 HTML files\n\nRules were simple:\n- look stunning\n- zero repetitive designs\n- go full creative mode\n\nThe goal was to test its creativity alongside its frontend design skills.\n\nThis model produced good results, but it's not the BEST I've seen from open models.\n\nIMO it's on par/similar to GLM 5.3/GLM 5.3 Flash, but I can't say it's absolutely better. What I can say is that its 100% worse than Qwen3.8-Max.\n\nUnfortunately, there are *some* broken files.\n\nSee the results for yourself (incl. prompts):\nhttps://t.co/N61YVDxaOQ\n\nAll other 100-HTML file experiments:\nhttps://t.co/7V9sIhI3o1\n\nSome that I liked:\n\nHaptic - A Softer Control Surface\nhttps://t.co/Jkr5KTTlIQ\n\nNocturne - We Are Made of Old Light\nhttps://t.co/cyKdAnyQ3p\n\nAura- Trace the Air\nhttps://t.co/2XcBSGnwNS\n\nAxis - A Variable Type Playground\nhttps://t.co/5UxACh2yuN\n\nBrick Party\nhttps://t.co/MQgW8A6M0G\n\nSwarm Type - A Word Is a Crowd\nhttps://t.co/BrzsFy5BPe"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/MiaAI_lab/status/2111543797540585960",
+      "prompt_boundary": "1 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [
+        {
+          "id": "P-html-haptic",
+          "label": "Haptic",
+          "text": "Design a neumorphic \"calm technology\" control surface called Haptic, presented as a single sculpted device floating on a pale, dotted studio backdrop. The palette is cool porcelain (#e8ebf2) with warm coral, mint, sky and lilac accents; every control is extruded from the same material with paired light and dark shadows, generous radii and no hard borders. The device contains a large rotatable dial with a glowing inset ring, three tactile toggle switches, four mood presets (Calm, Focus, Warm, Night), and a soft oscilloscope canvas whose wave amplitude follows the dial. Include a small brand header, a right-hand live readout (\"state / intensity / tone\"), and quiet microcopy. The mood should be closer to a Dieter Rams appliance than a toy: restrained, tactile, premium. Fully responsive, one standalone HTML file, inline CSS and JS, no external assets.",
+          "source_url": "https://miaai-lab.github.io/DeepSeek-v4.1-Flash-100-HTML-Files/",
+          "evidence_type": "creator-project-page",
+          "sha256": "36c56bb1746641c36c246047a0c7ee02831b069d6b5575109abdf4d4a7447bb5",
+          "source_page_sha256": "892c846d9d21f20d959a6388b016d354e39f11e6b649c5237ca208392e857201",
+          "html_selector": ".prompt-text",
+          "element_index": 2
+        }
+      ],
+      "media_type": "none",
+      "source_media_urls": [],
+      "source_media_count": 0,
+      "public_media_disposition": "text-only",
+      "expected_public_visual_count": 0,
+      "r2_media_urls": [],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 235,
+        "view_count": 21325,
+        "retweet_count": 8,
+        "reply_count": 23,
+        "bookmark_count": 144,
+        "quote_count": 0
+      },
+      "metrics_collected_at": "2026-10-18T02:19:24Z",
+      "source_posts": [
+        {
+          "id": "2111543797540585960",
+          "sourceUrl": "https://x.com/MiaAI_lab/status/2111543797540585960",
+          "author": "MiaAI_lab",
+          "createdAt": "2026-10-17T19:44:06Z",
+          "likeCount": 235,
+          "viewCount": 21325,
+          "retweetCount": 8,
+          "replyCount": 23,
+          "bookmarkCount": 144,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111543797540585960",
+          "metricsCollectedAt": "2026-10-18T02:19:24Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111390281614471557",
+          "sourceUrl": "https://x.com/MiaAI_lab/status/2111390281614471557",
+          "author": "MiaAI_lab",
+          "createdAt": "2026-10-17T09:34:05Z",
+          "likeCount": 413,
+          "viewCount": 15950,
+          "retweetCount": 6,
+          "replyCount": 54,
+          "bookmarkCount": 38,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111390281614471557",
+          "metricsCollectedAt": "2026-10-18T02:17:57Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": [
+        "https://miaai-lab.github.io/DeepSeek-v4.1-Flash-100-HTML-Files/",
+        "https://mia-ai.net/experiments/100-htmls",
+        "https://miaai-lab.github.io/DeepSeek-v4.1-Flash-100-HTML-Files/003-haptic-surface.html",
+        "https://miaai-lab.github.io/DeepSeek-v4.1-Flash-100-HTML-Files/012-nocturne-stars.html",
+        "https://miaai-lab.github.io/DeepSeek-v4.1-Flash-100-HTML-Files/021-aura-trace.html",
+        "https://miaai-lab.github.io/DeepSeek-v4.1-Flash-100-HTML-Files/033-axis-type.html",
+        "https://miaai-lab.github.io/DeepSeek-v4.1-Flash-100-HTML-Files/049-brick-party.html",
+        "https://miaai-lab.github.io/DeepSeek-v4.1-Flash-100-HTML-Files/069-swarm-type.html"
+      ]
+    },
+    {
+      "group_id": "DS024",
+      "public_number": 24,
+      "category": "web",
+      "title": "A landing page across two DeepSeek versions",
+      "takeaway": "Compare page layout, typography and visual hierarchy using the same harness setup.",
+      "source_url": "https://x.com/leo114119/status/2111411589618266155",
+      "author_handle": "leo114119",
+      "date": "2026-10-17",
+      "source_id": "2111411589618266155",
+      "author_url": "https://x.com/leo114119",
+      "category_id": "web",
+      "type": "Demo",
+      "body_notes": [
+        "实测，deepseek v4.1 flash 1017最新版前端水平提升明显啊\n\n环境都是dsh同一版本。渠道为官方key\n\n白色为旧版，绿色为新版 https://t.co/2DhlWY6vXO"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/leo114119/status/2111411589618266155",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU09nqXaMAAOWNq.jpg",
+        "https://pbs.twimg.com/media/HU09oN3aQAEfXzX.jpg",
+        "https://pbs.twimg.com/media/HU09oujboAEAqlZ.jpg",
+        "https://pbs.twimg.com/media/HU09pUtaQAELIW0.jpg"
+      ],
+      "source_media_count": 4,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 4,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111411551903297536",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS024/image-0-85268fb45ec4.jpg"
+        },
+        {
+          "source_media_id": "2111411561432760321",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS024/image-1-96cb83325b86.jpg"
+        },
+        {
+          "source_media_id": "2111411570207334401",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS024/image-2-f8488d5a9721.jpg"
+        },
+        {
+          "source_media_id": "2111411580449734657",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS024/image-3-dd6735884c13.jpg"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS024/image-0-85268fb45ec4.jpg",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS024/image-1-96cb83325b86.jpg",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS024/image-2-f8488d5a9721.jpg",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS024/image-3-dd6735884c13.jpg"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 52,
+        "view_count": 22072,
+        "retweet_count": 0,
+        "reply_count": 17,
+        "bookmark_count": 6,
+        "quote_count": 3
+      },
+      "metrics_collected_at": "2026-10-18T02:17:36Z",
+      "source_posts": [
+        {
+          "id": "2111411589618266155",
+          "sourceUrl": "https://x.com/leo114119/status/2111411589618266155",
+          "author": "leo114119",
+          "createdAt": "2026-10-17T10:58:45Z",
+          "likeCount": 52,
+          "viewCount": 22072,
+          "retweetCount": 0,
+          "replyCount": 17,
+          "bookmarkCount": 6,
+          "quoteCount": 3,
+          "isReply": false,
+          "conversationId": "2111411589618266155",
+          "metricsCollectedAt": "2026-10-18T02:17:36Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS025",
+      "public_number": 25,
+      "category": "games",
+      "title": "A security-room horror game comparison",
+      "takeaway": "Inspect room detail, lighting, cameras and interface elements in a horror-game prototype.",
+      "source_url": "https://x.com/kepochnik/status/2111421758691827905",
+      "author_handle": "kepochnik",
+      "date": "2026-10-17",
+      "source_id": "2111421758691827905",
+      "author_url": "https://x.com/kepochnik",
+      "category_id": "games",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 vs Opus 5.5\n\njust built a version of the game Five Nights at Freddy's thanks to these models\n\nDeepSeek v4.1 Flash 1017 - 24 minutes\nOpus 5.5 - 38 minutes\n\nwhich model looks better? https://t.co/9sbOvJfRMy"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/kepochnik/status/2111421758691827905",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111420498953617408/vid/avc1/640x360/zISrwXt_rpMoLjSt.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111420498953617408",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS025/poster-0-d7a229177df8.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS025/web-1edd35bf9f4e.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS025/poster-0-d7a229177df8.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS025/web-1edd35bf9f4e.mp4",
+      "metrics": {
+        "like_count": 139,
+        "view_count": 6591,
+        "retweet_count": 4,
+        "reply_count": 37,
+        "bookmark_count": 20,
+        "quote_count": 0
+      },
+      "metrics_collected_at": "2026-10-18T02:17:27Z",
+      "source_posts": [
+        {
+          "id": "2111421758691827905",
+          "sourceUrl": "https://x.com/kepochnik/status/2111421758691827905",
+          "author": "kepochnik",
+          "createdAt": "2026-10-17T11:39:10Z",
+          "likeCount": 139,
+          "viewCount": 6591,
+          "retweetCount": 4,
+          "replyCount": 37,
+          "bookmarkCount": 20,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111421758691827905",
+          "metricsCollectedAt": "2026-10-18T02:17:27Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 144.064,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111420498953617408/vid/avc1/3840x2160/R5rKetji4hdYKodA.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS026",
+      "public_number": 26,
+      "category": "games",
+      "title": "A first-person corridor shooter prototype",
+      "takeaway": "Study a first-person scene with aiming, weapon effects and a navigable corridor.",
+      "source_url": "https://x.com/hakmgpt/status/2111314427416895798",
+      "author_handle": "hakmgpt",
+      "date": "2026-10-17",
+      "source_id": "2111314427416895798",
+      "author_url": "https://x.com/hakmgpt",
+      "category_id": "games",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 ;) https://t.co/A4L5zdEW29"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/hakmgpt/status/2111314427416895798",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111314371846561792/vid/avc1/1532x720/frBkH_XmtiWGhU-J.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111314371846561792",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS026/poster-0-871b24d6d570.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS026/web-de48e7570793.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS026/poster-0-871b24d6d570.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS026/web-de48e7570793.mp4",
+      "metrics": {
+        "like_count": 203,
+        "view_count": 18880,
+        "retweet_count": 7,
+        "reply_count": 15,
+        "bookmark_count": 22,
+        "quote_count": 2
+      },
+      "metrics_collected_at": "2026-10-18T02:18:39Z",
+      "source_posts": [
+        {
+          "id": "2111314427416895798",
+          "sourceUrl": "https://x.com/hakmgpt/status/2111314427416895798",
+          "author": "hakmgpt",
+          "createdAt": "2026-10-17T04:32:40Z",
+          "likeCount": 203,
+          "viewCount": 18880,
+          "retweetCount": 7,
+          "replyCount": 15,
+          "bookmarkCount": 22,
+          "quoteCount": 2,
+          "isReply": false,
+          "conversationId": "2111314427416895798",
+          "metricsCollectedAt": "2026-10-18T02:18:39Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 23.168,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111314371846561792/vid/avc1/3550x1668/nKURf2aTka3AnSIj.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS027",
+      "public_number": 27,
+      "category": "games",
+      "title": "A four-model parkour game comparison",
+      "takeaway": "Compare a first-person parkour brief through level layout, lighting and visual effects.",
+      "source_url": "https://x.com/thehypedotnews/status/2111472170190684243",
+      "author_handle": "thehypedotnews",
+      "date": "2026-10-17",
+      "source_id": "2111472170190684243",
+      "author_url": "https://x.com/thehypedotnews",
+      "category_id": "games",
+      "type": "Demo",
+      "body_notes": [
+        "new deepseek v4.1 flash 1017 just built a parkour run with the best effects of the four\n\nfour flash models, one brief: a first-person parkour run in a single html file, four stages and one fix round\n\n- deepseek v4.1 flash – $0.141, 1h 27m, thousands of glowing windows\n- claude haiku 5.5 – $0.08, 23m 33s\n- gpt-6 luna – $0.036, 8m 07s\n- qwen3.8 flash – $0.227, 2h 04m\n\nwhich one would you play?"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/thehypedotnews/status/2111472170190684243",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video.twimg.com/amplify_video/2111471840832950272/vid/avc1/640x360/AvgFR4RkLafkLaZk.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111471840832950272",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS027/poster-0-38a7f349dc8c.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS027/web-65e9466871ef.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS027/poster-0-38a7f349dc8c.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS027/web-65e9466871ef.mp4",
+      "metrics": {
+        "like_count": 52,
+        "view_count": 6924,
+        "retweet_count": 6,
+        "reply_count": 8,
+        "bookmark_count": 17,
+        "quote_count": 4
+      },
+      "metrics_collected_at": "2026-10-18T02:16:43Z",
+      "source_posts": [
+        {
+          "id": "2111472170190684243",
+          "sourceUrl": "https://x.com/thehypedotnews/status/2111472170190684243",
+          "author": "thehypedotnews",
+          "createdAt": "2026-10-17T14:59:29Z",
+          "likeCount": 52,
+          "viewCount": 6924,
+          "retweetCount": 6,
+          "replyCount": 8,
+          "bookmarkCount": 17,
+          "quoteCount": 4,
+          "isReply": false,
+          "conversationId": "2111472170190684243",
+          "metricsCollectedAt": "2026-10-18T02:16:43Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 30.046621,
+      "original_source_video_urls": [
+        "https://video.twimg.com/amplify_video/2111471840832950272/vid/avc1/1920x1080/HB_YHMbnZ2gXXY8w.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS028",
+      "public_number": 28,
+      "category": "games",
+      "title": "An ocean-platform roller-coaster world",
+      "takeaway": "Explore a game-like environment with looping tracks, connected platforms and moving viewpoints.",
+      "source_url": "https://x.com/SPAC89/status/2111413922989224089",
+      "author_handle": "SPAC89",
+      "date": "2026-10-17",
+      "source_id": "2111413922989224089",
+      "author_url": "https://x.com/SPAC89",
+      "category_id": "games",
+      "type": "Demo",
+      "body_notes": [
+        "GPT 6.1 Sol Ultra vs DeepSeek V4.1 Flash 1017 Max, I still can't believe a model that's 90% cheaper can produce results this good, how is this even possible? Both models took roughly the same amount of time since most of it was spent rendering, but the quality DeepSeek managed to achieve is incredible, especially considering the API cost was just 0.44 cents for the entire test! I think having access to free web search is making a huge difference and giving DeepSeek a much bigger advantage than before, especially with its native multimodal capabilities. The more I test this model, the more I wonder how they're managing to offer so much at such a low price, I'm still running even bigger tests with different models to see how far it can go, more results coming soon!"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/SPAC89/status/2111413922989224089",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111411680810852353/vid/avc1/720x810/WTTl_QxcUfV-s-Oo.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111411680810852353",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS028/poster-0-3480951efe5d.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS028/web-98345333438e.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS028/poster-0-3480951efe5d.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS028/web-98345333438e.mp4",
+      "metrics": {
+        "like_count": 1682,
+        "view_count": 135077,
+        "retweet_count": 110,
+        "reply_count": 91,
+        "bookmark_count": 398,
+        "quote_count": 25
+      },
+      "metrics_collected_at": "2026-10-18T02:17:34Z",
+      "source_posts": [
+        {
+          "id": "2111413922989224089",
+          "sourceUrl": "https://x.com/SPAC89/status/2111413922989224089",
+          "author": "SPAC89",
+          "createdAt": "2026-10-17T11:08:02Z",
+          "likeCount": 1682,
+          "viewCount": 135077,
+          "retweetCount": 110,
+          "replyCount": 91,
+          "bookmarkCount": 398,
+          "quoteCount": 25,
+          "isReply": false,
+          "conversationId": "2111413922989224089",
+          "metricsCollectedAt": "2026-10-18T02:17:34Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111425781062840351",
+          "sourceUrl": "https://x.com/Adidotdev/status/2111425781062840351",
+          "author": "Adidotdev",
+          "createdAt": "2026-10-17T11:55:09Z",
+          "likeCount": 154,
+          "viewCount": 7903,
+          "retweetCount": 1,
+          "replyCount": 22,
+          "bookmarkCount": 22,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111425781062840351",
+          "metricsCollectedAt": "2026-10-18T02:17:25Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 20.053333,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111411680810852353/vid/avc1/1152x1296/JmHMvZfiUVlBqblI.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS037",
+      "public_number": 37,
+      "category": "games",
+      "title": "A voxel Roadster stunt course",
+      "takeaway": "Explore a voxel car sequence with a looped ramp, launch effects and a track-side interface.",
+      "source_url": "https://x.com/atomic_chat_hq/status/2111474429410566422",
+      "author_handle": "atomic_chat_hq",
+      "date": "2026-10-17",
+      "source_id": "2111474429410566422",
+      "author_url": "https://x.com/atomic_chat_hq",
+      "category_id": "games",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash vs Luna at Tesla Roadster 🏎️\n\nDeepSeek V4.1 Flash 1017 re-created the Tesla Roadster event in 3D voxels for $0.89 while GPT-6 Luna's version cost $1.07\n\nRun DeepSeek Flash locally or via API -> https://t.co/lW9A0SLtWj"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/atomic_chat_hq/status/2111474429410566422",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "video",
+      "source_media_urls": [
+        "https://video-s.twimg.com/amplify_video/2111473220066877441/vid/avc1/720x720/0VOHv2AN-OK_AlM2.mp4?tag=29"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-video",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111473220066877441",
+          "kind": "video",
+          "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS037/poster-0-3e5b552c9ce7.jpg",
+          "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS037/web-aca8d3ede268.mp4"
+        }
+      ],
+      "r2_media_urls": [],
+      "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS037/poster-0-3e5b552c9ce7.jpg",
+      "playable_video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS037/web-aca8d3ede268.mp4",
+      "metrics": {
+        "like_count": 471,
+        "view_count": 106165,
+        "retweet_count": 17,
+        "reply_count": 23,
+        "bookmark_count": 86,
+        "quote_count": 7
+      },
+      "metrics_collected_at": "2026-10-18T02:16:41Z",
+      "source_posts": [
+        {
+          "id": "2111474429410566422",
+          "sourceUrl": "https://x.com/atomic_chat_hq/status/2111474429410566422",
+          "author": "atomic_chat_hq",
+          "createdAt": "2026-10-17T15:08:27Z",
+          "likeCount": 471,
+          "viewCount": 106165,
+          "retweetCount": 17,
+          "replyCount": 23,
+          "bookmarkCount": 86,
+          "quoteCount": 7,
+          "isReply": false,
+          "conversationId": "2111474429410566422",
+          "metricsCollectedAt": "2026-10-18T02:16:41Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111477087660036356",
+          "sourceUrl": "https://x.com/NFT_Chen/status/2111477087660036356",
+          "author": "NFT_Chen",
+          "createdAt": "2026-10-17T15:19:01Z",
+          "likeCount": 73,
+          "viewCount": 14519,
+          "retweetCount": 10,
+          "replyCount": 8,
+          "bookmarkCount": 22,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111477087660036356",
+          "metricsCollectedAt": "2026-10-18T02:16:37Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": 16.068209,
+      "original_source_video_urls": [
+        "https://video-s.twimg.com/amplify_video/2111473220066877441/vid/avc1/1080x1080/gwQIHQJ76ZIAL0gJ.mp4?tag=29"
+      ],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": [
+        "http://atomic.chat"
+      ]
+    },
+    {
+      "group_id": "DS029",
+      "public_number": 29,
+      "category": "engineering",
+      "title": "A PNG converter written from scratch in C11",
+      "takeaway": "Use the original request to study a constrained C project covering multiple image formats.",
+      "source_url": "https://x.com/AM09_21/status/2111422281742487616",
+      "author_handle": "AM09_21",
+      "date": "2026-10-17",
+      "source_id": "2111422281742487616",
+      "author_url": "https://x.com/AM09_21",
+      "category_id": "engineering",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017検証　その1\n\nPNG形式の画像ファイルをJPEG / GIF / BMP / TGA / TIFF / PNM形式に変換するツールを、ゼロからフルスクラッチでC言語を用いて作成させるタスクを依頼しました\n\nC11と標準のmake, ライブラリとしてlibc, libmのみを使用し、24分で完成。かかった費用は$0.17です\n\nMacOS最新バージョンでDeepSeek Harness 0.2.1-rc.1をPTCモードで使用。追加のプラグイン無しで実行させました\n\n結果としてffmpegでの実行時と100%一致する変換結果、ffmpeg比で1.6倍の遅さ、複数回変換時のサイズ肥大化はffmpeg比で34%の増加でした\n\n使用したプロンプトは\n「今このフォルダにある3種類のpngを、主要な他の画像形式に変換するソフトウェアを作成してください。ただしC言語によるフルスクラッチ開発で、環境構築から行ってください。基本的なものを除き、すでにあるものを使用するのではなく1から自分で開発してください。必要ならSubAgentなど、あなたが使えることは何でもやること(不正は除く)。」\n\nという極めてシンプルなプロンプトであり、またGPT-6.1 Sol max fastに常に監視させて不正がないかを観察していましたが、不正0回で問題なく完遂しました\n\n現在追加で改善を回すように指示していますが、30分以内のポン出し結果としてまともに動くどころかかなり実用的なソフトウェアを作成してきたのは性能向上を感じる......\n\n改善化Loop後の最終結果は時間がかかりますが、続報をお待ちください(追走者も歓迎です！)"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/AM09_21/status/2111422281742487616",
+      "prompt_boundary": "1 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [
+        {
+          "id": "P-2111422281742487616",
+          "text": "今このフォルダにある3種類のpngを、主要な他の画像形式に変換するソフトウェアを作成してください。ただしC言語によるフルスクラッチ開発で、環境構築から行ってください。基本的なものを除き、すでにあるものを使用するのではなく1から自分で開発してください。必要ならSubAgentなど、あなたが使えることは何でもやること(不正は除く)。",
+          "source_url": "https://x.com/AM09_21/status/2111422281742487616",
+          "source_post_id": "2111422281742487616",
+          "evidence_type": "root-text",
+          "sha256": "28768f7dd0f348b27949d006af7a4829f920ae6691ed288a87cdac1c851b4946",
+          "source_text_start": 351,
+          "source_text_end": 516
+        }
+      ],
+      "media_type": "none",
+      "source_media_urls": [],
+      "source_media_count": 0,
+      "public_media_disposition": "text-only",
+      "expected_public_visual_count": 0,
+      "r2_media_urls": [],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 163,
+        "view_count": 13024,
+        "retweet_count": 15,
+        "reply_count": 4,
+        "bookmark_count": 68,
+        "quote_count": 4
+      },
+      "metrics_collected_at": "2026-10-18T02:17:27Z",
+      "source_posts": [
+        {
+          "id": "2111422281742487616",
+          "sourceUrl": "https://x.com/AM09_21/status/2111422281742487616",
+          "author": "AM09_21",
+          "createdAt": "2026-10-17T11:41:14Z",
+          "likeCount": 163,
+          "viewCount": 13024,
+          "retweetCount": 15,
+          "replyCount": 4,
+          "bookmarkCount": 68,
+          "quoteCount": 4,
+          "isReply": false,
+          "conversationId": "2111422281742487616",
+          "metricsCollectedAt": "2026-10-18T02:17:27Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS030",
+      "public_number": 30,
+      "category": "engineering",
+      "title": "Bug finding across two agent harnesses",
+      "takeaway": "Compare repeated bug-fixing runs across effort levels and harness choices.",
+      "source_url": "https://x.com/PawelHuryn/status/2111730046691836064",
+      "author_handle": "PawelHuryn",
+      "date": "2026-10-18",
+      "source_id": "2111730046691836064",
+      "author_url": "https://x.com/PawelHuryn",
+      "category_id": "engineering",
+      "type": "Evaluation",
+      "body_notes": [
+        "Turns out DeepSeek harness improves the score of DeepSeek V4.1 Flash by 2-3 points on average.\n\nIt also costs 80% more due to subagents and more output tokens.\n\nNew results:\n\nDeepSeek V4.1 Flash 1017 + Claude Code harness:\n- max, mean of 7: 39.1\n- high, mean of 5: 36.4\n- low, mean of 5: 34.4\n\nDeepSeek V4.1 Flash 1017 + DeepSeek harness:\n- max, mean of 7: 42.7\n- high, mean of 5: 39.2\n- low, mean of 5: 34.8\n\nFor comparison:\n\nGPT-6 Astra, max: 45\nOpus 5.5, max: 41.7\nMuse Wonder Full 1.0, max: 42\n\nIt's a crazy model, and the only one catched cheating. All the results are available on the benchmark website."
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/PawelHuryn/status/2111730046691836064",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU5fR3oXgAAfdIU.jpg"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111730035879018496",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS030/image-0-05aa0a1c081c.jpg"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS030/image-0-05aa0a1c081c.jpg"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 581,
+        "view_count": 64898,
+        "retweet_count": 34,
+        "reply_count": 98,
+        "bookmark_count": 153,
+        "quote_count": 27
+      },
+      "metrics_collected_at": "2026-10-18T12:05:08.860941+00:00",
+      "source_posts": [
+        {
+          "id": "2111730046691836064",
+          "sourceUrl": "https://x.com/PawelHuryn/status/2111730046691836064",
+          "author": "PawelHuryn",
+          "createdAt": "2026-10-18T08:04:11+00:00",
+          "likeCount": 581,
+          "viewCount": 64898,
+          "retweetCount": 34,
+          "replyCount": 98,
+          "bookmarkCount": 153,
+          "quoteCount": 27,
+          "isReply": false,
+          "conversationId": "2111730046691836064",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        },
+        {
+          "id": "2111411180182917214",
+          "sourceUrl": "https://x.com/PawelHuryn/status/2111411180182917214",
+          "author": "PawelHuryn",
+          "createdAt": "2026-10-17T10:57:08Z",
+          "likeCount": 1361,
+          "viewCount": 223295,
+          "retweetCount": 70,
+          "replyCount": 142,
+          "bookmarkCount": 285,
+          "quoteCount": 26,
+          "isReply": false,
+          "conversationId": "2111411180182917214",
+          "metricsCollectedAt": "2026-10-18T02:17:36Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111426843693781407",
+          "sourceUrl": "https://x.com/PawelHuryn/status/2111426843693781407",
+          "author": "PawelHuryn",
+          "createdAt": "2026-10-17T11:59:22Z",
+          "likeCount": 115,
+          "viewCount": 99065,
+          "retweetCount": 5,
+          "replyCount": 15,
+          "bookmarkCount": 24,
+          "quoteCount": 9,
+          "isReply": true,
+          "conversationId": "2111411180182917214",
+          "metricsCollectedAt": "2026-10-18T02:17:23Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111444951041237084",
+          "sourceUrl": "https://x.com/NFT_Chen/status/2111444951041237084",
+          "author": "NFT_Chen",
+          "createdAt": "2026-10-17T13:11:19Z",
+          "likeCount": 66,
+          "viewCount": 13479,
+          "retweetCount": 8,
+          "replyCount": 11,
+          "bookmarkCount": 15,
+          "quoteCount": 0,
+          "isReply": false,
+          "conversationId": "2111444951041237084",
+          "metricsCollectedAt": "2026-10-18T02:17:10Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS031",
+      "public_number": 31,
+      "category": "engineering",
+      "title": "A model-slug request becomes a 3D slug",
+      "takeaway": "Inspect a literal interpretation of an ambiguous model-identifier request.",
+      "source_url": "https://x.com/bijanbowen/status/2111334540476056034",
+      "author_handle": "bijanbowen",
+      "date": "2026-10-17",
+      "source_id": "2111334540476056034",
+      "author_url": "https://x.com/bijanbowen",
+      "category_id": "engineering",
+      "type": "Demo",
+      "body_notes": [
+        "wanted to see if DeepSeek V4.1 Flash 1017 was real, asked for the model slug and it made me a 3d model of a slug.... genuinely can't make this stuff up https://t.co/H9eRjRyty5"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/bijanbowen/status/2111334540476056034",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HUz2oCiXUAAtlfV.png"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111333493066125312",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS031/image-0-979bc8d4e4d6.png"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS031/image-0-979bc8d4e4d6.png"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 2456,
+        "view_count": 110055,
+        "retweet_count": 77,
+        "reply_count": 99,
+        "bookmark_count": 359,
+        "quote_count": 29
+      },
+      "metrics_collected_at": "2026-10-18T02:18:39Z",
+      "source_posts": [
+        {
+          "id": "2111334540476056034",
+          "sourceUrl": "https://x.com/bijanbowen/status/2111334540476056034",
+          "author": "bijanbowen",
+          "createdAt": "2026-10-17T05:52:35Z",
+          "likeCount": 2456,
+          "viewCount": 110055,
+          "retweetCount": 77,
+          "replyCount": 99,
+          "bookmarkCount": 359,
+          "quoteCount": 29,
+          "isReply": false,
+          "conversationId": "2111334540476056034",
+          "metricsCollectedAt": "2026-10-18T02:18:39Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS032",
+      "public_number": 32,
+      "category": "writing",
+      "title": "Turning podcast transcripts into Japanese articles",
+      "takeaway": "Use a twenty-article workflow to examine proper nouns, quotations and speaker attribution.",
+      "source_url": "https://x.com/kensuu/status/2111645227366891771",
+      "author_handle": "kensuu",
+      "date": "2026-10-18",
+      "source_id": "2111645227366891771",
+      "author_url": "https://x.com/kensuu",
+      "category_id": "writing",
+      "type": "Demo",
+      "body_notes": [
+        "DeepSeek-V4.1-Flash-1017がAstra超え！値段も激安でゲームチェンジャー！みたいな投稿をたくさん見たので、実際に、Podcastの文字起こしからの日本語の記事を20本を作った感想。\n\n・パッと見た目は、割とわかりやすい日本語を書くし下手ではない\n・Opus5.5と見比べても、そこまで差がないように見えるし、場合によっては読みやすさが上がる時もある\n・料金は安い。Opus5.5が37円、Sonnet5.5が17円、Gemini4が10円、としたら、だいたい3.3円くらいで作れる\n・固有名詞もそこそこ優秀。NewsPicks、PIVOT、ReHacQ、noteなどは大文字小文字まで含めて完全一致でした。DeepSeekは、ReHacQだけダメでした(ReHackと表示)。Opus5.5はReHacQもいけます。Sonnetはちょっと弱いかな\n\nというのがありつつ\n\n・時間はかかる。Opusは72秒、Sonnetは52秒だったが、、145秒かかった\n・文字起こしから記事にするときに、引用を一部する形にしているが、意味のない引用とかもしてしまう。冒頭の挨拶とか。これはOpusだと出てこない感じのイマイチさ\n・入力したものの意味の取り間違えが多い。意味を間違えたのは、Opusは4、Sonnetは11だが、22回間違えた。さらに話者の入れ替わりは、Opusは0回、Sonnetは4回だが、DeepSeekは12回間違えている\n・Geminiのように、外の知識を勝手に足すのはあまりしない。Geminiは65回、勝手に足して（しかも間違う）があったが、DeepSeekは10回。Opusは11回なので、まあ同じくらいの水準かな\n\nという感じでした。\n\n「めちゃくちゃ安く作れるけど、まあまあ間違える」と言う印象です。\n\nただ、その間違えもよーく見ないと気づかない、かなり厳密なものではありました。「意図としてはそうかもだが、本来は発言していないので、言い過ぎてしまっている」とか「二人がこういう結論に達した、と言っているが、実際は一人しか発言していない。ただ、合意はされているし反対意見もないから、二人で結論を出したと言ってもまあ許される」みたいな感じです。\n\n--\n\n結論、記事を作る時とかは、\n\n・Sonnet5.5を使うよりは、1/3から1/4の安さであるので魅力的\n・Sonnetよりも長く文章を書ける\n・間違いレベルは、筋の取り違えや言い過ぎがやや多いが、Sonnetの方が重要レベルの間違いを犯すことがある\n・Sonnetよりも固有名詞に強い\n\nなので、Sonnet5.5から乗り換える価値は十分にあるが、Opus5.5のクオリティには及ばなそう、と言う感じです。\n\nパッと見ただけだとほぼ変わらないように見えるが、細かいところの精度が全然違う。Opusは本当に間違いが少ないし、固有名詞などもちゃんとしている。\n\nただ、Opusが37円で、DeepSeekが3.3円なので、10倍の値段を払う価値があるのか・・・？は用途によりそうです。"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/kensuu/status/2111645227366891771",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "none",
+      "source_media_urls": [],
+      "source_media_count": 0,
+      "public_media_disposition": "text-only",
+      "expected_public_visual_count": 0,
+      "r2_media_urls": [],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 546,
+        "view_count": 100030,
+        "retweet_count": 77,
+        "reply_count": 19,
+        "bookmark_count": 275,
+        "quote_count": 17
+      },
+      "metrics_collected_at": "2026-10-18T12:05:08.860941+00:00",
+      "source_posts": [
+        {
+          "id": "2111645227366891771",
+          "sourceUrl": "https://x.com/kensuu/status/2111645227366891771",
+          "author": "kensuu",
+          "createdAt": "2026-10-18T02:27:09+00:00",
+          "likeCount": 546,
+          "viewCount": 100030,
+          "retweetCount": 77,
+          "replyCount": 19,
+          "bookmarkCount": 275,
+          "quoteCount": 17,
+          "isReply": false,
+          "conversationId": "2111645227366891771",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS033",
+      "public_number": 33,
+      "category": "agents",
+      "title": "Running the 1017 checkpoint on four DGX Sparks",
+      "takeaway": "Explore a published local-inference recipe and its workload-specific measurements.",
+      "source_url": "https://x.com/Tech2Wild/status/2111506332004086245",
+      "author_handle": "Tech2Wild",
+      "date": "2026-10-17",
+      "source_id": "2111506332004086245",
+      "author_url": "https://x.com/Tech2Wild",
+      "category_id": "agents",
+      "type": "Integration",
+      "body_notes": [
+        "I ran my own benchmark on DeepSeek V4.1 Flash 1017 and here's what it scored on 4x DGX Spark 🔥\n\n⚡ 165.7 tok/s throughput\n🎯 98.6 on my 69-scenario tool eval\n\nFull recipe 👇\nhttps://t.co/BaaWoLUmMU https://t.co/k0v54w6kJj"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/Tech2Wild/status/2111506332004086245",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU2T0YRX0AAJU2R.jpg"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111506328384425984",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS033/image-0-7504ace7cd6f.jpg"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS033/image-0-7504ace7cd6f.jpg"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 87,
+        "view_count": 4148,
+        "retweet_count": 6,
+        "reply_count": 9,
+        "bookmark_count": 30,
+        "quote_count": 1
+      },
+      "metrics_collected_at": "2026-10-18T02:19:37Z",
+      "source_posts": [
+        {
+          "id": "2111506332004086245",
+          "sourceUrl": "https://x.com/Tech2Wild/status/2111506332004086245",
+          "author": "Tech2Wild",
+          "createdAt": "2026-10-17T17:15:14Z",
+          "likeCount": 87,
+          "viewCount": 4148,
+          "retweetCount": 6,
+          "replyCount": 9,
+          "bookmarkCount": 30,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111506332004086245",
+          "metricsCollectedAt": "2026-10-18T02:19:37Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111501292686176663",
+          "sourceUrl": "https://x.com/Tech2Wild/status/2111501292686176663",
+          "author": "Tech2Wild",
+          "createdAt": "2026-10-17T16:55:12Z",
+          "likeCount": 73,
+          "viewCount": 6973,
+          "retweetCount": 4,
+          "replyCount": 7,
+          "bookmarkCount": 25,
+          "quoteCount": 2,
+          "isReply": false,
+          "conversationId": "2111501292686176663",
+          "metricsCollectedAt": "2026-10-18T02:19:41Z",
+          "sourceBatch": "R-0005-initial"
+        },
+        {
+          "id": "2111497954498334814",
+          "sourceUrl": "https://x.com/Tech2Wild/status/2111497954498334814",
+          "author": "Tech2Wild",
+          "createdAt": "2026-10-17T16:41:56Z",
+          "likeCount": 80,
+          "viewCount": 5349,
+          "retweetCount": 9,
+          "replyCount": 11,
+          "bookmarkCount": 19,
+          "quoteCount": 1,
+          "isReply": false,
+          "conversationId": "2111497954498334814",
+          "metricsCollectedAt": "2026-10-18T02:19:43Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": [
+        "https://github.com/tonyd2wild/DeepSeek-V4.1-Flash-vLLM-DGX-Spark"
+      ]
+    },
+    {
+      "group_id": "DS034",
+      "public_number": 34,
+      "category": "agents",
+      "title": "An EXL3 model running on two DGX Sparks",
+      "takeaway": "Study a two-machine local deployment using an EXL3 quantized checkpoint.",
+      "source_url": "https://x.com/lucataco/status/2111504345833386283",
+      "author_handle": "lucataco",
+      "date": "2026-10-17",
+      "source_id": "2111504345833386283",
+      "author_url": "https://x.com/lucataco",
+      "category_id": "agents",
+      "type": "Integration",
+      "body_notes": [
+        "first test with DeepSeek V4.1 Flash 1017 EXL3 2.9bpw\n\ngetting it to run on 2x DGX Sparks https://t.co/LxM5Kooa0V"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/lucataco/status/2111504345833386283",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU2Rl7zW4AA1bvE.jpg"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111503881200918528",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS034/image-0-979fc3e5a4f5.jpg"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS034/image-0-979fc3e5a4f5.jpg"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 78,
+        "view_count": 6081,
+        "retweet_count": 4,
+        "reply_count": 9,
+        "bookmark_count": 23,
+        "quote_count": 3
+      },
+      "metrics_collected_at": "2026-10-18T02:19:39Z",
+      "source_posts": [
+        {
+          "id": "2111504345833386283",
+          "sourceUrl": "https://x.com/lucataco/status/2111504345833386283",
+          "author": "lucataco",
+          "createdAt": "2026-10-17T17:07:20Z",
+          "likeCount": 78,
+          "viewCount": 6081,
+          "retweetCount": 4,
+          "replyCount": 9,
+          "bookmarkCount": 23,
+          "quoteCount": 3,
+          "isReply": false,
+          "conversationId": "2111504345833386283",
+          "metricsCollectedAt": "2026-10-18T02:19:39Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS035",
+      "public_number": 35,
+      "category": "agents",
+      "title": "Local inference with kernel optimization and drafting",
+      "takeaway": "Inspect a local-serving workflow that combines kernel optimization, multiple GPUs and drafting.",
+      "source_url": "https://x.com/Hikari_07_jp/status/2111564140192145636",
+      "author_handle": "Hikari_07_jp",
+      "date": "2026-10-17",
+      "source_id": "2111564140192145636",
+      "author_url": "https://x.com/Hikari_07_jp",
+      "category_id": "agents",
+      "type": "Integration",
+      "body_notes": [
+        "Deepseek v4.1 flash 1017を最適化するためだけにClaudeを契約してCUDAカーネルのボトルネックを調べて改善させてる。\nカーネル改善ループが始まりつつあって、現時点でDSpark込のシングルストリーム270tok/sくらいは出てるよ。Prefillはコードで131kが7700tok/s\nDeepseek V4.1はKVキャシュの圧縮率がおかしくて、RTX PRO 6000を4つ用意してあげるとFP8で5Milion ctxくらい入るんだよね。256kのエージェントが20並列で推論できる。\nもうそろそろ寝るから今日の午後まで推論最適化ループを回して、起きたらAblitrated作業に入る予定だよ。Ablitratedは丁寧にやりたいので、来週の中頃にリリースすると思う。\n\nお楽しみに〜！"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/Hikari_07_jp/status/2111564140192145636",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU3G2V4bwAATOo-.jpg"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111562437195710464",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS035/image-0-d0b5b777f55b.jpg"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS035/image-0-d0b5b777f55b.jpg"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 251,
+        "view_count": 10754,
+        "retweet_count": 26,
+        "reply_count": 12,
+        "bookmark_count": 55,
+        "quote_count": 3
+      },
+      "metrics_collected_at": "2026-10-18T02:19:15Z",
+      "source_posts": [
+        {
+          "id": "2111564140192145636",
+          "sourceUrl": "https://x.com/Hikari_07_jp/status/2111564140192145636",
+          "author": "Hikari_07_jp",
+          "createdAt": "2026-10-17T21:04:56Z",
+          "likeCount": 251,
+          "viewCount": 10754,
+          "retweetCount": 26,
+          "replyCount": 12,
+          "bookmarkCount": 55,
+          "quoteCount": 3,
+          "isReply": false,
+          "conversationId": "2111564140192145636",
+          "metricsCollectedAt": "2026-10-18T02:19:15Z",
+          "sourceBatch": "R-0005-initial"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    },
+    {
+      "group_id": "DS036",
+      "public_number": 36,
+      "category": "agents",
+      "title": "A long-horizon browser-use evaluation",
+      "takeaway": "Study a browser-task evaluation through completion results and task-level cost comparisons.",
+      "source_url": "https://x.com/browser_use/status/2111696102106038319",
+      "author_handle": "browser_use",
+      "date": "2026-10-18",
+      "source_id": "2111696102106038319",
+      "author_url": "https://x.com/browser_use",
+      "category_id": "agents",
+      "type": "Evaluation",
+      "body_notes": [
+        "DeepSeek V4.1 Flash 1017 just matched Opus 5.5 on long horizon browser use. 19x cheaper 👀\n\n&gt; 75/100, same as Opus 5.5, almost Astra level\n&gt; $0.22/task vs $2.35/task\n&gt; Sol it still SOTA, but it's close\n\nThe new pareto frontier 🔥 https://t.co/AjefEYpIRd"
+      ],
+      "decision": "high_confidence_update",
+      "decision_reason": "Concrete performed task and model attribution in the full source; attached output or linked project inspected, with creator text preserved",
+      "dedup_key": "https://x.com/browser_use/status/2111696102106038319",
+      "prompt_boundary": "0 exact creator-published Prompt span(s); no reconstructed generation instructions",
+      "prompts": [],
+      "media_type": "image",
+      "source_media_urls": [
+        "https://pbs.twimg.com/media/HU5ADAUa8AAJGl2.jpg"
+      ],
+      "source_media_count": 1,
+      "public_media_disposition": "r2-image",
+      "expected_public_visual_count": 1,
+      "r2_media_items": [
+        {
+          "source_media_id": "2111695695652777984",
+          "kind": "image",
+          "image_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS036/image-0-406de3569426.jpg"
+        }
+      ],
+      "r2_media_urls": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/assets/cases/DS036/image-0-406de3569426.jpg"
+      ],
+      "poster_url": "",
+      "playable_video_url": "",
+      "metrics": {
+        "like_count": 334,
+        "view_count": 13881,
+        "retweet_count": 13,
+        "reply_count": 32,
+        "bookmark_count": 48,
+        "quote_count": 4
+      },
+      "metrics_collected_at": "2026-10-18T12:05:08.860941+00:00",
+      "source_posts": [
+        {
+          "id": "2111696102106038319",
+          "sourceUrl": "https://x.com/browser_use/status/2111696102106038319",
+          "author": "browser_use",
+          "createdAt": "2026-10-18T05:49:18+00:00",
+          "likeCount": 334,
+          "viewCount": 13881,
+          "retweetCount": 13,
+          "replyCount": 32,
+          "bookmarkCount": 48,
+          "quoteCount": 4,
+          "isReply": false,
+          "conversationId": "2111696102106038319",
+          "metricsCollectedAt": "2026-10-18T12:05:08.860941+00:00",
+          "sourceBatch": "20261018-incremental"
+        }
+      ],
+      "duration_seconds": null,
+      "original_source_video_urls": [],
+      "playback_variant_policy": "Unmodified provider-supplied web rendition; highest available source links retained",
+      "model_attribution": "DeepSeek V4.1 Flash 1017",
+      "model_invocation_verified": false,
+      "originality_verified": false,
+      "source_links": []
+    }
+  ]
+}
