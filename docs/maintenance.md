@@ -12,7 +12,7 @@ Use a stable `case-N` HTML anchor immediately before the third-level linked case
 
 Case numbers remain stable across updates. Assign new numbers after the current maximum, then order the dataset and README by category and case number; validate that the complete number set has no gaps or duplicates.
 
-The reader-facing presentation is category-based. The Menu contains one category/count link for each populated section. Case images, including supplementary cards, use `height="280"` without a fixed width. The localized vector cover remains a separate cover image.
+The reader-facing presentation is category-based. The Menu contains one category/count link for each populated section. Case images, including supplementary cards, use `height="280"` without a fixed width. All eleven READMEs use the same owner-provided banner at width 760, preserving its original aspect ratio. Do not add an Introduction section or introductory paragraph above the Overview.
 
 Do not reintroduce type labels, case audit notes, transcription-status comments, missing-reference disclaimers, download/scope paragraphs, promotional links or Quick Start. These display choices are recorded in `data/usecase-update-config.json`. Structured source notes and internal types remain available in the dataset without being copied into the README. Preserve exact Prompt text and hashes; do not infer a prompt from a video.
 

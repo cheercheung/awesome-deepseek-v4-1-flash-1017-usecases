@@ -6,7 +6,7 @@ Every case retains its original public post, posting account and source date. Th
 
 Video cases use a reviewed poster linked to a playable HTTPS MP4. Playback uses an unmodified rendition supplied by the source platform for browser viewing; the highest available source video URL is retained separately in the case data. Image cases preserve every selected source image. Text-only cases retain their task evidence without a fabricated illustration.
 
-Public case media and localized covers are hosted in this repository's Cloudflare R2 namespace. Local working downloads, collection caches and credentials are excluded from Git.
+Public case media and the owner-provided cover are hosted in this repository's Cloudflare R2 namespace. Local working downloads, collection caches and credentials are excluded from Git.
 
 Third-party videos, images, prompts, product names and characters remain subject to their respective creators' rights. The editorial license does not relicense those materials. Attribution, correction or removal requests can be filed as an issue with the source and case number.
 
