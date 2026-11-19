@@ -2,7 +2,7 @@
 
 # DeepSeek V4.1 Flash 1017 Casos de uso
 
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/images/banner-d58dccc02272.png" alt="DeepSeek V4.1 Flash 1017 Casos de uso" width="760">
+<a href="https://evolink.ai/deepseek-v4-1-flash-1017?utm_source=github&amp;utm_medium=banner&amp;utm_campaign=awesome-deepseek-v4-1-flash-1017-usecases&amp;utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/model-repo-media/awesome-deepseek-v4-1-flash-1017-usecases/images/banner-d58dccc02272.png" alt="DeepSeek V4.1 Flash 1017 Casos de uso" width="760"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 
